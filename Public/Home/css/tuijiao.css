@@ -1,0 +1,91 @@
+.tuijiao{
+    margin:20px 0;
+}
+.tuijiao .main{
+	width: 1200px;
+	margin:0 auto;
+}
+.tuijiao .top{
+	height: 65px;
+	margin-bottom:10px; 
+	background:#fff;
+	font-size: 20px;
+}
+.tuijiao .top span,img{
+	vertical-align: middle;
+}
+.tuijiao .top span{
+	padding-left: 10px;
+	font-weight: bold;
+	color: #666;
+}
+.tuijiao .bottom{
+	margin:10px 0;
+	height: 985px;
+	background-color: #fff;
+	position: relative;
+}
+.tuijiao .bottom ul li{
+	width: 238px;
+	height: 220px;
+	border:1px solid #cecece;
+	float: left;
+	text-align: center;
+
+}
+.tuijiao .bottom ul li h4{
+	height: 54px;
+	line-height: 54px;
+	background-color: #f4f4f4;
+	color: #ff5d15;
+	font-size: 25px;
+}
+.tuijiao .bottom ul li .price{
+	height: 170px;
+}
+.tuijiao .bottom ul li .price p{
+    height: 45px;
+	line-height: 45px;
+}
+#tuijian  .bottom ul li .price h3{
+    height: 60px;
+	line-height: 60px;
+}
+#tuijian  .bottom ul li .price h3 a{
+    padding:6px 15px;
+	border:1px solid #ff5d15;
+	color: #ff1313;
+    -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+#tuijian  .bottom ul li .price h3 a:hover{
+	color: #fff;
+	background-color: #ff1313;
+}
+.tuijiao .bottom ul li:hover{
+	box-shadow:  0 0 15px #c6c6c6;
+	-moz-transform:scale(1.01);
+	-webkit-transform:scale(1.01);
+	transform: scale(1.01);
+}
+.tuijiao .bottom .pagination{
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	height: 50px;
+	width: 1100px;
+	margin-left: -550px;
+	text-align: center;
+	padding-top:10px;
+}
+#jiaoyi .bottom ul li .price h3{
+	color: red;
+	font-size: 20px;
+	margin-top: 20px;
+}
+#tuijian .bottom ul li .price p strong{
+    color:red;
+    font-size: 18px;
+}

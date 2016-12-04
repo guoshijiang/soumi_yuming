@@ -1,0 +1,192 @@
+#find{
+	margin:20px 0;
+}
+#find .main{
+	width: 1200px;
+	margin:0 auto;
+}
+#find .top{
+	height: 65px;
+	margin-bottom:10px; 
+	background:#fff;
+	font-size: 20px;
+}
+#find .top span,img{
+	vertical-align: middle;
+}
+#find .top span{
+	padding-left: 10px;
+	font-weight: bold;
+	color: #666;
+}
+#find .choose{
+	background-color: #fff;
+	padding-left: 15px;
+	font-size: 16px;
+	color: #666;
+	padding-top: 15px;
+
+}
+#find .choose .choose_top span{
+	display: inline-block;
+	width: 120px;
+	height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 17px;
+}
+#find .choose .choose_top  i,#find .choosed span i{
+	display: inline-block;
+	width: 3px;
+	height: 21px;
+	margin-right: 8px;
+	background: #ff5d15;
+	vertical-align: middle;
+}
+#find .choose .choose_top input.txt{
+    width: 290px;
+    height: 35px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border:1px solid #cecece;
+    font-size: 16px;
+    padding-left: 5px;
+}
+#find .choose .choose_top input.btn{
+	height: 35px;
+	width: 68px;
+	background-color: #ff5d15;
+	color: #fff;
+	border:1px solid #ff5d15;
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-size: 16px;
+    margin-left: 50px;
+}
+#find .choose .choose_bottom p{
+	height: 50px;
+}
+#find .choose .choose_bottom p span{
+	display: inline-block;
+}
+#find .choose .choose_bottom p .cd-title{
+	width: 112px;
+	height: 50px;
+	line-height: 50px;
+	text-align: right;
+	padding-right: 8px;
+	font-weight: bold;
+}
+#find .choose .choose_bottom p span.cd-sp{
+	width: 100px;
+}
+#find .choose .choose_bottom p span a{
+	display: inline-block;
+	color: #666;
+	padding:5px 10px;
+	border:1px solid #cecece;
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+#find .choose .choose_bottom p span:hover a{
+	background-color: #ff5d15;
+	color: #fff;
+	border:1px solid #ff5d15;
+}
+#find .choosed{
+	height: 50px;
+	background-color: #fff;
+	margin:10px 0;
+	line-height: 50px;
+}
+#find .choosed span{
+	padding:0 15px;
+	font-size: 16px;
+	color: #666;
+}
+#find .choosed span.red{
+	font-size: 18px;
+	color:#ff5d15;
+	font-weight: bold;
+}
+#find .bodys{
+	height: 600px;
+	margin:10px 0;
+	background-color: #fff;
+	padding: 10px 10px;
+	position: relative;
+}
+#find .bodys table{
+	width: 100%;
+	border-collapse:collapse;
+}
+#find .bodys table thead th{
+	height: 45px;
+	background-color: #f0f4fd;
+	border:none;
+	font-size: 20px;
+	color: #666;
+	text-align: left;
+	padding-left: 50px;
+}
+#find .bodys table  tr{
+	height: 43px;
+	line-height: 43px;
+	font-size: 20px;
+}
+#find .bodys table  tr .td_price{
+	color: #ff5d15;
+}
+#find .bodys table  tr td{
+	padding-left: 50px;
+}
+#find .bodys table  tr td i{
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+    background:url(../img/b1.png) no-repeat;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+#find .bodys table  tr:hover td i{
+	background:url(../img/b2.png) no-repeat;
+}
+#find .bodys table  tr td a.lookxq{
+	padding:5px 8px;
+	color: #fff;
+	border:1px solid #cecece;
+	background-color: #ccc;
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-size: 16px;
+
+}
+#find .bodys table  tr:hover td a.lookxq{
+	background: #ff5d15;
+	border:1px solid #ff5d15;
+}
+#find .bodys .pagination{
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	height: 50px;
+	width: 1100px;
+	border-top: 1px solid #cecece;
+	margin-left: -550px;
+	text-align: center;
+	padding-top:10px;
+}
+#classification{
+	display: inline-block;
+	*display:inline;
+    *zoom:1;
+    /*padding-top: 8px;*/
+}
+#classification p{
+	padding-top: 8px;
+	height: 45px;
+}

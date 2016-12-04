@@ -1,0 +1,67 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}tuijiao.css">
+<!-- 推荐开始 -->
+<div id="tuijian" class="tuijiao" >
+	<div class="main">
+		<div class="top">
+			<img src="{$Think.const.IMG_HOME_URL}11.png" height="65"><span>推荐域名</span><img src="{$Think.const.IMG_HOME_URL}jiao.png" height="65">
+		</div>
+		<div class="bottom" id="houzhuiinfo_table">
+			<ul>
+			  <foreach name='info1' item='v'>
+				<li>
+					<h4>{$v.yuming_name}</h4>
+					<div class="price">
+						<p>{$v.yuming_introduce}</p>
+						<p>价格：￥{$v.yuming_xiaoshou_price}</p>
+						<h3><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">报价</a></h3>
+					</div>
+				</li>
+			  </foreach>
+			</ul>
+			<div id="Pagination" class="pagination">
+		        这里显示分页
+		    </div>
+		</div>
+	</div>
+</div>
+<input type='hidden' id='tuijiantotal' value='{$tuijiantotal}' />
+<script type="text/javascript">
+ var info_cache = new Array();
+    $(function(){
+    	(function() {
+		    var num_entries = $("#tuijiantotal").val();
+		    //alert(num_entries);
+		    // 创建分页
+		    $("#Pagination").pagination(num_entries, {
+		      num_edge_entries: 1, //边缘页数
+		      num_display_entries: 4, //主体页数
+		      callback: pageselectCallback,
+		      items_per_page:20 //每页显示1项
+		    });
+		   })(); 
+		    function pageselectCallback(page_index, jq){
+		    	 //alert(yuming_ids);
+            if(typeof info_cache[page_index] === 'undefined'){ 
+		      $.ajax({
+		       url:"__MODULE__/Index/tuijianyuming",
+		       data:{'page_index':page_index},
+		       dataType:'json',
+		       type:'get',
+		       success:function(msg){
+		       //console.log(msg);
+		           var s = "";
+		                  $.each(msg,function(n,v){
+		                  	s +='<ul><li><h4>'+v.yuming_name+'</h4><div class="price"><p>'+v.yuming_introduce+'</p><p>价格：<strong>￥'+v.yuming_xiaoshou_price+'</strong></p><h3><a href="/index.php/Home/User/price/yuming_id/'+v.yuming_id+'/cat_id/'+v.cat_id+'">报价</a></h3></div></li></ul>';
+		                     });
+		                    info_cache[page_index] = s;
+		                    $('#houzhuiinfo_table  ul:gt(0)').remove();
+		                    $('#houzhuiinfo_table').append(s);  
+		        }
+		      });
+		    }
+		$('#houzhuiinfo_table ul:gt(0)').remove();
+        $('#houzhuiinfo_table').append(info_cache[page_index]);
+		   }
+      }); 	
+</script>
+<!-- 推荐结束 -->

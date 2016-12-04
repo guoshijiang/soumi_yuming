@@ -1,0 +1,278 @@
+
+<!-- banner开始 -->
+    <div id="banner">
+ 		<div class="pica">
+ 			<ul>
+ 				<li style="display:block;" ><a href=""><img src="{$Think.const.IMG_HOME_URL}banner1.png"></a></li>
+ 				<li ><a href=""><img src="{$Think.const.IMG_HOME_URL}banner2.png" ></a></li>
+ 				<li><a href=""><img src="{$Think.const.IMG_HOME_URL}banner3.png" ></a></li>
+ 				<li><a href=""><img src="{$Think.const.IMG_HOME_URL}banner4.png" ></a></li>
+ 			</ul>
+ 		</div>
+ 		<!-- 小圆点 -->
+		<div class="tab">
+			<ul>
+				<li class="on"></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+		<!-- 左右按钮 -->
+		<div class="btn">
+			<div  id="leftBtn">&lt;</div>
+			<div id="rightBtn">&gt;</div>
+		</div>
+    </div>
+<!-- banner结束 -->
+<!-- 主内容部分开始 -->
+	<div id="content" class="clearfix">
+	    <div class="main">
+		<!-- 今日推荐 最新排行-->
+			<div class="todaynew content_div clearfix">
+				<div class="today content_left border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}11.png" height="56">
+						   <span>今日推荐</span><img src="{$Think.const.IMG_HOME_URL}jiao.png" height="56">
+						</p>
+						<div class="tab">
+							<ul>
+								<li class="on"></li>
+								<li></li>
+								<li></li>
+							</ul>
+						</div>
+						<p class="fr more"><a href="{:u('Index/tuijian')}">更多&nbsp;&gt;&gt;</a></p>
+					</div>
+					<div class="left_bottom">
+						<div class="list">
+							<ul>
+							<foreach name='info1' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div class="price">
+										<p>{$v.yuming_introduce}</p>
+										<p>价格：<strong>￥{$v.yuming_xiaoshou_price}</strong></p>
+										<h3><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">报价</a></h3>
+									</div>
+								</li>
+							</foreach>
+							</ul>
+							<ul>
+							<foreach name='info2' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div class="price">
+										<p>{$v.yuming_introduce}</p>
+										<p>价格：<strong>￥{$v.yuming_xiaoshou_price}</strong></p>
+										<h3><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">报价</a></h3>
+									</div>
+								</li>
+							</foreach>
+							</ul>
+							<ul>
+								<foreach name='info3' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div class="price">
+										<p>{$v.yuming_introduce}</p>
+										<p>价格（万）：<strong>￥{$v.yuming_xiaoshou_price}</strong></p>
+										<h3><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">报价</a></h3>
+									</div>
+								</li>
+							</foreach>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="new content_right border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}1.png" height="38">
+						   <span>新米排行</span>
+						</p>
+					</div>
+					<div class="left_bottom">
+					<foreach name='info5' item='v'>
+						<p>
+							<i class="ii"></i><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id']))}" title="{$v.yuming_name}">{$v.yuming_name}</a>
+							<span title="{$v.yuming_introduce}">{$v.yuming_introduce}</span>
+							<span style="font-size: 18px;font-weight: bold;color: red;">￥{$v.yuming_xiaoshou_price}</span>
+						</p>
+				    </foreach>
+					</div>
+			    </div>
+			</div>
+        <!-- 一口价，最近交易 -->
+            <div class="pricesdeal content_div clearfix">
+				<div class="prices content_left border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}12.png" height="56">
+						   <span>一口价域名</span><img src="{$Think.const.IMG_HOME_URL}jiao.png" height="56">
+						</p>
+						<div class="tab">
+							<ul>
+								<li class="on"></li>
+								<li></li>
+								<li></li>
+							</ul>
+						</div>
+						<p class="fr more"><a href="__MODULE__/Index/yikou">更多&nbsp;&gt;&gt;</a></p>
+					</div>
+					<div class="left_bottom">
+						<div class="list">
+							<ul>
+							<foreach name='info41' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div>{$v.yuming_introduce}</div>
+									<a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">价格：<strong>￥&nbsp;{$v.yuming_xiaoshou_price}</strong></a>
+								</li>
+							</foreach>
+							</ul>
+							<ul>
+							<foreach name='info42' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div>{$v.yuming_introduce}</div>
+									<a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">价格：<strong>￥&nbsp;{$v.yuming_xiaoshou_price}</strong></a>
+								</li>
+							</foreach>
+							</ul>
+							<ul>
+							<foreach name='info43' item='v'>
+								<li>
+									<h4>{$v.yuming_name}</h4>
+									<div>{$v.yuming_introduce}</div>
+									<a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">价格：<strong>￥&nbsp;{$v.yuming_xiaoshou_price}</strong></a>
+								</li>
+							</foreach>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="deal content_right border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}2.png" height="38">
+						   <span>最近成交</span>
+						</p>
+					</div>
+					<div class="left_bottom">
+					  <foreach name='info10' item='v'>
+						<span>{$v.yuming_name}</span>
+					  </foreach>
+					</div>
+			    </div>
+			</div>
+        <!-- 议价，分类 -->
+	        <div class="talkclassify content_div clearfix">
+				<div class="talk content_left border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}13.png" height="56">
+						   <span>议价域名</span><img src="{$Think.const.IMG_HOME_URL}jiao.png" height="56">
+						</p>
+					</div>
+					<div class="left_bottom">
+						<table border="0" >
+		        			<thead>
+		        				<th>域名</th>
+		        				<th>价格</th>
+		        				<th>含义</th>
+		        				<th></th>
+		        			</thead>
+		        			<tbody id='houzhuiinfo_table'>
+		        			  <tr style="width: 0;height: 0"></tr>
+		        			  <foreach name='info100' item='v'>
+		        				<tr>
+		        					<td>{$v.yuming_name}</td>
+		        					<td>议价</td>
+		        					<tds style="width: 150px">{$v.yuming_introduce}</td>
+		        					<td><a class="xq" href="{:u('User/price',array('yuming_id'=>$v['yuming_id']))}">详情</a></td>
+		        				</tr>
+		        			  </foreach>
+		        			</tbody>	
+		        		</table>
+		        		<!-- 分页 -->
+		        		<div class="pagination" id="Pagination">
+		        			分页
+		        		</div>
+					</div>
+				</div>
+<input type='hidden' id='yumingtotal' value='{$yumingtotal}' />
+<script type="text/javascript">
+    $(function(){
+    	(function() {
+		    var num_entries = $("#yumingtotal").val();
+		    //alert(num_entries);
+		    // 创建分页
+		    $("#Pagination").pagination(num_entries, {
+		      num_edge_entries: 1, //边缘页数
+		      num_display_entries: 4, //主体页数
+		      callback: pageselectCallback,
+		      items_per_page:8 //每页显示1项
+		    });
+		   })();
+		    function pageselectCallback(page_index, jq){
+		      $.ajax({
+		       url:"__MODULE__/Index/getyuming",
+		       data:{'page_index':page_index},
+		       dataType:'json',
+		       type:'get',
+		       success:function(msg){
+		       //console.log(msg);
+		           var s = "";
+		                  $.each(msg,function(n,v){
+		                  	  var yuming =  v.yuming_xiaoshou_price;
+		                  	  var yuming_xiaoshou_price = v.yuming_xiaoshou_price =='0'?'议价':(yuming);
+		                      s +=' <tr><td style="color:#000;">'+v.yuming_name+'</td><td style="color:#ff5d15;">'+yuming_xiaoshou_price+'</td><td style="color:#000;">'+v.yuming_introduce+'</td><td><a class="xq" href="/index.php/Home/User/price/yuming_id/'+v.yuming_id+'">详情</a></td></tr>';
+		                     });
+		                    $('#houzhuiinfo_table tr:gt(0)').remove();
+		                    $('#houzhuiinfo_table').append(s);  
+		        }
+		      });
+		    }
+      }); 	
+ </script>
+
+				<div class="classify content_right border">
+					<div class="left_top">
+						<p class="fl" >
+						   <img src="{$Think.const.IMG_HOME_URL}3.png" height="38">
+						   <span>域名类型</span>
+						</p>
+					</div>
+					<div class="left_bottom">
+						<div>
+							<h3>后缀</h3>
+							  <foreach name='info11' item='v'>
+							    <p><a href="__MODULE__/Index/find/houzhui_id/{$v.houzhui_id}">{$v.houzhui_name}</a></p>
+							  </foreach>
+						</div>
+						<div>
+							<h3>纯数字</h3>
+							  <foreach name='info7' item='v'>
+							     <p><a href="__MODULE__/Index/find/cat_id/{$v.cat_id}">{$v.cat_name}</a></p>
+							  </foreach>
+						</div>
+						<div>
+							<h3>纯字母</h3>
+							  <foreach name='info8' item='v'>
+							     <p><a href="__MODULE__/Index/find/cat_id/{$v.cat_id}">{$v.cat_name}</a></p>
+							  </foreach>
+						</div>
+						<div>
+							<h3>杂米</h3>
+							  <foreach name='info9' item='v'>
+							     <p><a href="__MODULE__/Index/find/cat_id/{$v.cat_id}">{$v.cat_name}</a></p>
+							  </foreach>
+						</div>
+					</div>
+			    </div>
+			</div>
+		</div>
+	</div>
+<!-- 主内容部分结束 -->

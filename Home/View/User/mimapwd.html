@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}password.css">
+<!-- 修改密码开始 -->
+	<div id="modify" class="pwd">
+		<h3>修改密码</h3>
+		<form name="form2" method="post">
+			<p><span>新密码：</span><input type="password"  name="first"  placeholder="请输入新密码" /></p>
+			<p><span>确认密码：</span><input type="password" name="second"  placeholder="请再次确认密码" /></p>
+			<p><input class="btn" type="button" value="确认"  onclick="check()"/></p>
+		</form>
+	</div>
+	<script type="text/javascript">
+		function check(){
+		  var objFirst = document.forms["form2"].first;
+	      var objSecond = document.forms['form2'].second;
+	      var MFirst = objFirst.value;
+	      var MSecond = objSecond.value;
+	      if(MFirst == "" || MSecond == ""){
+	      	alert('密码不能为空！');
+	      	return false;
+	      }else if(MFirst.length<6||MFirst.length>16){
+	        alert('密码长度应为6~16个字符！');
+	        return false;
+	      }else if(MFirst!=MSecond){
+	        alert('两次密码输入不一致！')
+	        return false;
+	      }
+	      document.forms["form2"].submit();//普通按钮
+		}
+	</script>
+<!-- 修改密码结束 -->

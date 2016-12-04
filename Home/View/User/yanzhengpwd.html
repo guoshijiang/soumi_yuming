@@ -1,0 +1,12 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}password.css">
+<!-- 验证身份开始 -->
+	<div id="prove">
+		<h3>验证身份</h3>
+		<form name="form1" action="" method="post">
+			<input type="text" name="phone" placeholder="请输入手机号" />
+			<input class="yan" type="text" name="chknumber" placeholder="请输入右侧验证码" /> 
+			<img src="__CONTROLLER__/verifyImg" id="safecode" onclick="this.src=this.src+'/'+Math.random()" width="100" height="45" style="margin:20px 0px; vertical-align: middle;"  >
+			<input  class="btn" type="submit" value="验证" />
+		</form>
+	</div>
+<!-- 验证身份结束 -->

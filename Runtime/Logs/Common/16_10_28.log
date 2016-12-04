@@ -1,0 +1,6 @@
+[ 2016-10-28T09:21:38+08:00 ] 127.0.0.1 /index.php/Aome/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Aome
+

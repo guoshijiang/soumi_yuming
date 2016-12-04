@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}tuijiao.css">
+<!-- 推荐开始 -->
+<div id="tuijian" class="tuijiao" >
+	<div class="main">
+		<div class="top">
+			<img src="{$Think.const.IMG_HOME_URL}11.png" height="65"><span>您可能还对下面的域名感兴趣</span><img src="{$Think.const.IMG_HOME_URL}jiao.png" height="65">
+		</div>
+		<div class="bottom"  id="houzhuiinfo_table">
+			<ul>
+			  <foreach name='ls_ids' item='v'>
+				<li>
+					<h4>{$v.yuming_name}</h4>
+					<div class="price">
+						<p>{$v.yuming_introduce}</p>
+						<p>价格（万）：￥{$v.yuming_xiaoshou_price}</p>
+						<h3><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">报价</a></h3>
+					</div>
+				</li>
+			  </foreach>
+			</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	alert('报价成功！若价格合适，我司工作人员会尽快联系您！感谢您对搜米的支持！')
+</script>
+<!-- 推荐结束 -->

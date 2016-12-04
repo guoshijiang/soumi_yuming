@@ -1,0 +1,37 @@
+
+  <tr>
+    <td>
+    <form action="__SELF__" method="post">
+     <input type="hidden" name='mg_id' value='{$info.mg_id}' />
+    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce">
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">姓名：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <input type="text" name="mg_name"  value="{$info.mg_name}" />
+        </div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">密码：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left"><input type="text" name="mg_pwd" value="{$info.mg_pwd}" /></div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="right"><span class="STYLE19">职位：</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="left">
+        <select  name='role_id' >
+          <option value ='0'>-请选择-</option>
+          <foreach name='info1' item='v'>
+          <option  value='{$v.role_id}' <eq name='info.role_id' value='$v.role_id'>selected='selected'</eq>>{$v.role_name}</option>
+          </foreach>
+          </select></div></td>
+      </tr>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6" colspan='100'>
+          <div align="center"><input type="submit" value='确认修改' /></div>
+        </td>
+      </tr>
+    </table>
+    </form>
+    </td>
+  </tr>
+ </table>
+</body>

@@ -1,0 +1,52 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}whios.css">
+<div id="whios">
+   <form action="__SELF__" method="post">
+   	 <p class="find">
+		<label>查询域名:</label>
+		<input type="text" name="yumingname" class="txt" placeholder="请输入域名，如：soumi.com" style="width: 200px;" />
+		<input type="submit" value="whois查询" class="btn" />
+	 </p>
+   </form>
+	
+	<h3>
+		域名<em>{$info['domain']}</em>的注册信息
+	</h3>
+	<div>
+		<p><span>域名：</span><span>{$info['domain']}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff5d15">{$status}</span></p>
+		<p><span>域名注册人：</span><span>{$info['registrar']}</span></p>
+		<p><span>注册邮箱：</span><span>{$info['contact_email']}</span></p>
+		<p><span>参考网址：</span><span>{$info['referral_url']}</span></p>
+		<p><span>注册商：</span><span>{$info['sponsoring_registrar']}</span></p>
+		<p><span>whois服务器地址：</span><span>{$info['whois_server']}</span></p>
+		<p><span>DNS服务器：</span><span>{$info['name_server']}</span></p>
+		<p><span>域名状态：</span><span>{$info['dom_status']}</span></p>
+		<p><span>域名注册时间：</span><span>{$info['dom_insdate']}</span></p>
+		<p><span>域名更新时间：</span><span>{$info['dom_upddate']}</span></p>
+		<p><span>域名过期时间：</span><span>{$info['dom_expdate']}</span></p>
+	</div>
+	<p class="detail">+&nbsp;详细信息</p>
+	<div class="more">
+		{$info['details']}
+	</div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){
+		var Detial = $('#whios .detail');
+		var More = $('#whios .more');
+		//alert(More.is(":hidden"))
+		Detial.click(function(){
+			if(More.is(":hidden")){
+                 More.show(500,function(){
+	            	Detial.html('-&nbsp;详细信息');
+	            	Detial.addClass('ons');
+	            })
+			}else{
+				More.hide(500,function(){
+	            	Detial.html('+&nbsp;详细信息');
+	            	Detial.removeClass('ons');
+	            })
+			}
+	            
+		})
+	})
+</script>

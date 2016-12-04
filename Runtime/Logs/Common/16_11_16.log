@@ -1,0 +1,18 @@
+[ 2016-11-16T22:43:24+08:00 ] 61.142.175.34 //index.php/component/users/?view=registration
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:Component
+
+[ 2016-11-16T22:43:25+08:00 ] 61.142.175.34 //index.php/customer/account/create/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:Customer
+
+[ 2016-11-16T22:43:27+08:00 ] 61.142.175.34 //index.php/register/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Register
+

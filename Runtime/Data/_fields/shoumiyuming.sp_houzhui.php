@@ -1,0 +1,1 @@
+a:4:{i:0;s:10:"houzhui_id";i:1;s:12:"houzhui_name";s:3:"_pk";s:10:"houzhui_id";s:5:"_type";a:2:{s:10:"houzhui_id";s:21:"mediumint(8) unsigned";s:12:"houzhui_name";s:11:"varchar(32)";}}

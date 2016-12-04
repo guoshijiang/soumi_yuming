@@ -1,0 +1,75 @@
+#zhuce{
+	width: 580px;
+	margin:20px auto;
+	background: #fff;
+	padding:10px 20px;
+}
+#zhuce h2{
+	padding:10px 5px;
+	color: #ff5d15;
+	font-size: 20px;
+	text-shadow: 0 0 8px #ccc;
+}
+#zhuce div{
+	position: relative;
+}
+#zhuce div label span{
+	display: inline-block;
+	width: 100px;
+	height: 45px;
+	line-height: 45px;
+	padding-right: 8px;
+	text-align: right;
+	font-size: 16px;
+	color: #666;
+	font-weight: bold;
+}
+#zhuce div{
+	width: 356px;
+	margin-bottom: 10px;
+}
+#zhuce div  input{
+	padding:13px 8px;
+	width: 230px;
+	border:1px solid #ff5d15;
+	font-size: 16px;
+	vertical-align: middle;
+}
+#zhuce div  input.btn{
+	width: 100px;
+	padding:13px 8px;
+	color: #fff;
+	background-color: #ff5d15;
+}
+#zhuce div  #checkchknumber{
+	width: 130px;
+}
+#zhuce div  input.submitBtn{
+	margin-left: 107px;
+    width: 248px;
+}
+#zhuce div p{
+	width: 238px;
+	text-align: left;
+	height: 25px;
+	line-height: 25px;
+	margin-right: -245px;
+	position: absolute;
+	right: 0px;
+	top:15px;
+    color: red;
+}
+#zhuce div p i{
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	vertical-align: middle;
+	margin-right: 3px;
+
+}
+#zhuce div p i.ok{
+	background:url(../img/ok.gif) no-repeat;
+}
+#zhuce div p i.error{
+	background:url(../img/error.gif) no-repeat;
+}

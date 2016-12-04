@@ -1,0 +1,61 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}message.css">
+<!-- 用户信息开始 -->
+	<div id="message">
+		<div class="message_top">
+			<p class="on"><a class="img1" href="javascript:;"></a></p>
+			<p ><a class="img2" href="javascript:;"></a></p>
+			<p><a class="img3" href="javascript:;"></a></p>
+		</div>
+		<div class="message_foot alone show">
+			<h2><img src="{$Think.const.IMG_HOME_URL}m1.png" height="60"><span>个人信息</span></h2>
+			<form  action="__SELF__" method="post">
+				<h3>信息完善</h3>
+				<p><label for="qq">QQ：</label ><input type="text" name="qq" id="qq" value="{$userxinxi[0][qq]}" /></p>
+				<p><label for="weixin">微信：</label ><input type="text" name="weixin" id="weixin" value="{$userxinxi[0][weixin]}" /></p>
+				<p><label for="user_phone">手机号：</label ><input type="text" name="user_phone" id="phone" value="{$userxinxi[0][user_phone]}" /></p>
+				<input id="sub" type="submit" value="保存信息" />
+			</form>	
+		</div>
+		<div class="message_foot myprice">
+			<h2><img src="{$Think.const.IMG_HOME_URL}m2.png" height="60"><span>我的报价</span><small>(温馨提示：汇款账户招商银行尾数021098工商银行尾数871282名字：徐新建，其它视为仿冒，汇到其它账户公司不负责)</small></h2>
+			<table border="0">
+              	<tr class="nav" style="font-weight:bolder;font-size: 20px">
+              		<td>域名</td>
+              		<td>售价（万元）</td>
+              		<td>报价（万元）</td>
+              		<td>留言</td>
+              		<td>时间</td>
+              	</tr>
+	            <foreach name='userprice' item = 'v' >
+	              	<tr>
+	              		<td><strong><a href="{:u('User/price',array('yuming_id'=>$v['yuming_id'],'cat_id'=>$v['cat_id']))}">{$v.yuming_name}</a></strong></td>
+	              		<td>{$v.yuming_xiaoshou_price}</td>
+	              		<td>{$v.user_baojia}</td>
+	              		<td style="font-size: 12px;width: 200px;">{$v.user_liuyan}</td>
+	              		<td>{:date('Y-m-d H:i:s',$v['add_time'])}</td>
+	              	</tr>
+	            </foreach>
+		    </table>
+		</div>
+		<div class="message_foot safe">
+			<h2><img src="{$Think.const.IMG_HOME_URL}m3.png" height="60"><span>账户安全</span></h2>
+			<div>
+				<p>登录密码<span>建议您设置高强度密码并定期更改并定期更改保护账户安全</span><a href="{:U('User/change')}">修改</a></p>
+			</div>
+		</div>
+	</div>
+<!-- 用户信息结束 -->
+<script type="text/javascript">
+	$(function(){
+        var Tp = $('.message_top p');
+        var FDiv = $('.message_foot');
+        var index = 0;
+        Tp.click(function(){
+          index = $(this).index();
+           FDiv.eq(index).addClass('show').siblings().removeClass('show')
+           $(this).addClass('on').siblings().removeClass('on')
+        });
+        var focus = location.search.substring(location.search.length -1);
+        Tp.eq(focus).click();
+     })
+</script>

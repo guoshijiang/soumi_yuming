@@ -1,0 +1,67 @@
+<script type="text/javascript" src='{$Think.const.PLUGIN_URL}ueditor/ueditor.config.js'></script>
+<script type="text/javascript" src='{$Think.const.PLUGIN_URL}ueditor/ueditor.all.min.js'></script>
+<script type="text/javascript" src='{$Think.const.PLUGIN_URL}ueditor/lang/zh-cn/zh-cn.js'></script>
+<script type="text/javascript" src='{$Think.const.PLUGIN_URL}jquerypage/jquery-page.js'></script>
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_ADMIN_URL}page.css">
+  <tr>
+    <td>
+    <div class="choose_on" style="background:#fff;height: 35px;">
+      <span style="font-size: 16px; line-height: 35px;padding:0 5px;">当前报价的用户人数：<strong style="color: red">{$usertotal}</strong></span>
+    </div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce"  id="houzhuiinfo_table">
+      <tr>
+        <td width="9%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">
+        用户名</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">基本操作</span></div></td>
+      </tr>
+      <foreach name='info' key='k' item='v'>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_name}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF"><div align="center" class="STYLE21">
+         <a style='color:rgb(59,99,119)'  href=" {:U('xiangqing',array('user_id'=>$v['user_id']))}" >详情</a>
+        <a style='color:rgb(59,99,119)'  href=" {:U('userbaojiashoulistdel',array('user_id'=>$v['user_id']))}" onclick="if(confirm('确认要删除我么？主人')){return true;}else{return false;}" >删除</a></div></td>
+      </tr>
+      </foreach>
+    </table>
+    <!-- 分页信息 start -->
+<div id="Pagination" class="pagination">
+<!-- 这里显示分页 -->
+</div>
+<!-- 分页信息 end -->
+    </td>
+  </tr>
+ </table>
+</body>
+<input type='hidden' id='userbaojia' value='{$usertotal}' />
+<script type="text/javascript">
+ $(function(){
+  (function() {
+    var num_entries = $("#userbaojia").val();
+    //alert(num_entries);
+    // 创建分页
+    $("#Pagination").pagination(num_entries, {
+      num_edge_entries: 1, //边缘页数
+      num_display_entries: 4, //主体页数
+      callback: pageselectCallback,
+      items_per_page:30 //每页显示1项
+    });
+   })();
+    function pageselectCallback(page_index, jq){
+      $.ajax({
+       url:"__MODULE__/Userbaojia/getuserbaojia",
+       data:{'page_index':page_index},
+       dataType:'json',
+       type:'get',
+       success:function(msg){
+        console.log(msg);
+           var s = "";
+                  $.each(msg,function(n,v){
+                      s += '<tr><td class="STYLE6" height="20" bgcolor="#FFFFFF"><div align="center"><span class="STYLE19">'+v.user_name+'</span></div></td><td height="20" bgcolor="#FFFFFF"><div class="STYLE21" align="center"><a style="color:rgb(59,99,119)" href=" /index.php/Admin/Userbaojia/xiangqing/user_id/'+v.user_id+'">详情</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:rgb(59,99,119)" href=" /index.php/Admin/Userbaojia/del/user_id/'+v.user_id+'">删除</a></div></td></tr>';
+                     });
+                    $('#houzhuiinfo_table tr:gt(0)').remove();
+                    $('#houzhuiinfo_table').append(s);  
+        }
+      });
+    }
+  });
+</script>

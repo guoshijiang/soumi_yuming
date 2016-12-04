@@ -1,0 +1,83 @@
+#wall{
+	width: 1200px;
+	height: 780px;
+	margin:0 auto;
+	background-color: #fff;
+	margin-top: 20px;
+	box-shadow: 0 0 10px #666;
+}
+#wall .wall_top{
+	text-align: center;
+	height: 80px;
+	background-color: #ff5d15;
+	color:#fff;
+	line-height: 80px;
+	font-size: 30px;
+	letter-spacing: 1em;
+	font-family: "楷体";
+}
+#wall .wall_content{
+	width: 650px;
+	height: 500px;
+	margin:0px auto;
+	margin-top: 90px;
+}
+#wall .wall_content p{
+    height: 40px;
+    line-height: 40px;
+    padding-left: 26px;
+}
+#wall .wall_content p.wall_nav a{
+	color: #666;
+	font-size: 16px;
+	display: inline-block;
+	padding:0 10px;
+	border:1px solid #ff5d15;
+	border-radius: 5px;
+	margin-right: 20px;
+}
+#wall .wall_content p.wall_nav a.on{
+	background-color: #ff5d15;
+	color: #fff;
+}
+#wall .wall-form{
+	height: 90px;
+	padding-left: 26px;
+	margin-top: 15px;
+}
+#wall .wall-form input{
+	width: 425px;
+	height: 40px;
+	padding:5px 5px;
+	border:1px solid #ff5d15;
+	vertical-align:middle;
+	font-size:16px;
+}
+#wall .wall-form input.btn{
+	width: 112px;
+    height: 52px;
+	padding:5px 5px;
+    background-color: #ff5d15;
+    color: #fff;
+}
+#wall .wall-form table{
+	width: 550px;
+	border-collapse:collapse;
+	margin-top: 20px;
+	border:1px solid #ff5d15;
+	font-size: 15px;
+}
+#wall .wall-form table tr{
+    height: 35px;
+    padding-left: 10px;
+}
+#wall .wall-form table tr td{
+	padding-left: 10px;
+}
+#wall .wall_foot{
+	width: 500px;
+	margin:0 auto;
+}
+#wall .wall_foot ul li{
+    list-style: circle;
+}

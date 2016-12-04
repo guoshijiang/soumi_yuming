@@ -1,0 +1,32 @@
+
+  <tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce">
+      <tr>
+        <td width="5%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">用户ID</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef " class="STYLE6"><div align="center"><span class="STYLE10">用户名</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef " class="STYLE6"><div align="center"><span class="STYLE10">QQ</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef " class="STYLE6"><div align="center"><span class="STYLE10">微信</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">手机号码</span></div></td>
+        <td width="15%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">用户密码</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">注册时间</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">修改时间</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">基本操作</span></div></td>
+      </tr>
+      <foreach name='info' key='k' item='v'>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_id}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_name}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.qq}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.weixin}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_phone}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_pwd}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="center">{:date('Y-m-d H:i:s',$v['add_time'])}</div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="center">{:date('Y-m-d H:i:s',$v['upd_time'])}</div></td>
+        <td height="20" bgcolor="#FFFFFF"><div align="center" class="STYLE21">
+        <a style='color:rgb(59,99,119)'  href=" {:U('del',array('user_id'=>$v['user_id']))}" onclick="if(confirm('确认要删除我么？主人')){return true;}else{return false;}" >删除</a></div></td>
+      </tr>
+      </foreach>
+    </table></td>
+  </tr>
+ </table>
+</body>

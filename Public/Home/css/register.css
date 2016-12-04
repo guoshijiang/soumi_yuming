@@ -1,0 +1,99 @@
+#register{
+	width: 500px;	
+	height: 610px;
+	background-color: #fff;
+	box-shadow: 0 0 10px #666;
+	margin:50px auto;
+}
+#register form{
+	width: 500px;
+	height: 500px;
+	margin:0 auto;
+	background: #fff;
+	opacity:0.85;
+}
+#register form h1{
+	height: 60px;	
+	text-align: center;
+	line-height: 60px;
+	border:1px solid #cecece;
+	margin-bottom: 20px;
+}
+#register form div{
+	float: left;
+	clear: both;
+	font-size: 20px;
+}
+#register form div label{
+	display: inline-block;
+	width: 460px;
+}
+#register form div label .text{
+	width: 300px;
+	height: 40px;
+	padding: 0 2px;
+	font-size: 20px;
+	border:1px solid #c00;
+}
+#register form div label b{
+	font-size: 12px;
+	color: #ccc;
+	visibility: hidden;
+}
+#register form div label em{
+	display: inline-block;
+	font-size: 12px;
+	width: 53px;
+	height: 15px;
+	font-style: normal;
+	text-align: center;
+    vertical-align: middle;
+    line-height: 15px;
+    background: #ffd099;
+}
+#register form .active{
+	background: #ff6600;
+}
+#register form span{
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+#register form .submitBtn{
+	width: 382px;
+    height: 46px;
+    background: #ff6600;
+    color: #fff;
+    font-size: 20px;
+    border: 1px solid #ff5d15;
+    margin: 20px 0 0 70px;
+}
+#register .msg{
+	/*display: inline-block;*/
+	height: 30px;
+	line-height: 40px;
+	color: #999;
+	float: left;
+	margin-left: 125px;
+	display: none;
+	font-size: 10px !important;
+}
+#register .msg i{
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	vertical-align: middle;
+}
+#register .msg i.ati{
+	background: url(../img/tishi.jpg) no-repeat;
+	background-size: 25px;
+}
+#register .msg i.err{
+    background: url(../img/cuo.jpg) no-repeat;
+	background-size: 45px;
+    background-position: -9px -8px;
+}
+#register .msg i.ok{
+	background: url(../img/dui.jpg) no-repeat;
+	background-size: 25px;
+}

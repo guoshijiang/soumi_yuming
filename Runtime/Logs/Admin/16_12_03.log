@@ -1,0 +1,15 @@
+[ 2016-12-03T09:56:15+08:00 ] 101.226.65.105 /index.php/admin/index/left.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-12-03T09:57:50+08:00 ] 101.226.33.205 /index.php/admin/index/left.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-12-03T10:02:07+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/showlist
+ERR: 无法加载控制器:Yuming
+
+[ 2016-12-03T10:02:10+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/showlist
+ERR: 无法加载控制器:Yuming
+
+[ 2016-12-03T10:22:15+08:00 ] 101.226.89.119 /index.php/admin/index/left.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+

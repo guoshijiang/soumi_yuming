@@ -1,0 +1,148 @@
+#about{
+	background: #fff;
+}
+#about .about_img{
+	width: 100%;
+}
+#about .about_img img{
+	width: 100%;
+}
+#about .main{
+	width: 1200px;
+	margin:0 auto;
+	height: 790px;
+}
+#about .main ul.about_nav{
+	width: 188px;
+	height: 380px;
+	border-right:1px solid #ccc;
+	padding-left: 45px;
+	font-size: 20px;
+}
+#about .main .subject{
+	position: relative;
+}
+#about .main .content{
+	position: absolute;
+	width: 900px;
+	height: 712px;
+	padding-left: 52px;
+	display: none;
+}
+#about .main ul.about_nav li{
+	height: 60px;
+	line-height: 60px;
+	position: relative;
+}
+#about .main ul.about_nav li a{
+	display: inline-block;
+	width: 188px;
+	color: #666;
+}
+#about .main ul.about_nav li:hover a{
+	color: red;
+}
+#about .main ul.about_nav li.ons a{
+	color: red;
+}
+#about .main ul.about_nav li i{
+	display: inline-block;
+    background: url(../img/yuan.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    position: absolute;
+    right: -11px;
+    top: 21px;
+}
+#about .main ul.about_nav li:hover i{
+	background: url(../img/side.png) no-repeat;
+}
+#about .main ul.about_nav li.ons i{
+	background: url(../img/side.png) no-repeat;
+}
+#about .content  h2{
+	height: 60px;
+	color: #666;
+}
+#about .content  p{
+	height: 50px;
+	color: #666;
+}
+#about .content  p img{
+	vertical-align: middle;
+	padding-right: 16px;
+}
+#about .main .show{
+	display: block !important;
+}
+#about .main .about_flow .flowbg{
+	width: 795px;
+	height: 76px;
+	background:url(../img/flowbg.png) no-repeat;
+	margin-left: 40px;
+	margin-top: 20px;
+	position: relative;
+}
+#about .main .about_flow .flowbg p{
+	height: 146px;
+	position: absolute;
+}
+#about .main .about_flow .flowbg p.flow1{
+	text-align: center;
+	left: -60px;
+    top: 21px;
+}
+#about .main .about_flow .flowbg p.flow2{
+    text-align: center;
+	left:82px;
+    top: 18px;
+}
+#about .main .about_flow .flowbg p.flow3{
+    left: 287px;
+    top: 24px;
+}
+#about .main .about_flow .flowbg p.flow4{
+    left: 461px;
+    top: 20px
+}
+#about .main .about_flow .flowbg p.flow5{
+    left: 642px;
+    top: 18px;
+}
+#about .main .about_flow .flowbg p.flow6{
+    left: 805px;
+    top: 19px;
+}
+.subject .about_content{
+	height: 500px;
+}
+.subject .about_content ul li{
+	float: left;
+	width: 215px;
+	height: 270px;
+	border:1px solid #cecece;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	background-color: #f7f7f7;
+}
+.subject .about_content ul li p.weimas span{
+	vertical-align: middle;
+}
+.subject .about_content ul li p span{
+	display: inline-block;
+	height: 100px;
+}
+.subject .about_content ul li h3{
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #666;
+	border-bottom: 1px solid #cecece
+}
+#about .subject .about_content ul li p{
+	padding-left: 10px;
+	height: 45px;
+	line-height: 45px;
+}

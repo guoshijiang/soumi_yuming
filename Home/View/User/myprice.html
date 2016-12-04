@@ -1,0 +1,135 @@
+
+	<style type="text/css">
+	    .price_top{
+	    	margin-top: 50px;
+	    	height: 56px;
+	    	background-color: #fff;
+	    }
+	    .price_top i{
+	    	display: inline-block;
+	    	width: 40px;
+	    	height: 40px;
+	    	background: url({$Think.const.IMG_HOME_URL}ym.png) no-repeat center center;
+	    	background-position: 2px 14px;
+            background-size: 48px;
+            vertical-align: middle;
+            padding:8px 8px;
+	    }
+	    .price_top span{
+	    	font-size: 20px;
+	    }
+	    .price_content{
+	    	margin:20px 0;
+	    	padding:20px 50px;
+	    	background-color: #fff;
+	    }
+	    .price_content h2{
+	    	width: 100%;
+	    	height: 30px;
+	    	border-bottom: 1px dotted #666;
+	    	margin-bottom: 10px;
+	    	color: #f6c;
+	    	font-size: 30px;
+	    }
+	    .price_content .price_content1{
+	    	font-size: 16px;
+	    }
+	    .price_content .price_content1 p{
+	    	width: 390px;
+	    	margin-top: 10px;
+	    }
+	    .price_content .price_content2{
+            margin:0 50px;
+            font-size: 18px;
+	    }
+	    .price_content .price_content2 .price_title{
+            display: inline-block;
+            width: 100px;
+            height: 30px;
+            line-height: 30px;
+            text-align: right;
+	    }
+	    .price_content .price_content2 .txt{
+	    	height: 30px;
+	    	margin-bottom: 10px;
+	    	padding:0 5px;
+	    }
+	    .price_content .price_content2 .btn{
+	    	height: 35px;
+	    	width: 100px;
+	    	background-color: #049ee0;
+	    	color:#fff;
+	    	border-radius: 5px;
+	    	font-size: 16px;
+	    	margin-left: 105px;
+	    }
+	    .price_content .price_content2 p textarea{
+	    	padding:5px 5px;
+	    }
+	    .price_content .price_content2 p i{
+	    	display: inline-block;
+	    	width: 20px;
+	    	height: 30px;
+	    	background:url({$Think.const.IMG_HOME_URL}qian.png) no-repeat;
+	    	background-size: 20px;
+	    	vertical-align: middle;
+	    	margin-left: 10px;
+	    }
+	    .price_foot{
+	    	height: 53px;
+	    	background-color: #fff;
+	    	font-size: 14px;
+	    }
+	    .price_foot ul li{
+	    	float: left;
+	    	margin: 0 10px;
+	    }
+	    .price_foot p i{
+	    	display: inline-block;
+	    	width: 0;
+	    	height: 14px;
+	    	border:2px solid blue;
+	    	margin:0 8px;
+	    	vertical-align: middle;
+	    }
+	</style>
+<!-- 报价开始 -->
+	<div id="price">
+		<div class="main">
+			<div class="price_top">
+				<i></i><span>修改域名报价</span>
+			</div>
+	<form action="__SELF__" method="post">
+			<div class="price_content clearfix">
+			    <h2>{$xiugaibaojia[0][yuming_name]}</h2>
+			    <div class="price_content1 fl">
+				    <div style="width: 390px;height: 170px;background-color: #f6f6f6; color: #666">{$xiugaibaojia[0][yuming_introduce]}</div>
+				    <p>如果您感兴趣，请提交您的报价，卖家就会对您的报价作出相应回复。</p>
+			    </div>
+				<div class="price_content2 fl">
+					<p>
+						<span class="price_title">标价：</span>
+						<span>{$xiugaibaojia[0][yuming_xiaoshou_price]}万元</span>
+					</p>
+					<p>
+						<span class="price_title">您的报价：</span>
+						<input id="focuss" class="txt" type="text" id="numberbox" placeholder="您的报价" name="user_baojia" value="{$xiugaibaojia[0][user_baojia]}" /><i></i>
+					</p>
+					<p>
+						<span class="price_title" style="vertical-align: top;">留言：</span>
+						<textarea rows="8" cols="40" placeholder="留言或其他附加信息" name="user_liuyan" >{$xiugaibaojia[0][user_liuyan]}</textarea>
+					</p>
+					<p>
+						<input class="btn" type="submit" value="提交" />
+					</p>
+				</div>
+			</div>
+	</form>
+		</div>	
+	</div>
+<!-- 报价结束 -->
+</body>
+<script type="text/javascript">
+	document.getElementById('focuss').focus()
+</script>
+</html>

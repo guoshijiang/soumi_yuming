@@ -1,0 +1,47 @@
+/*分页*/
+.tcdPageCode,.tcdPageCode1,.tcdPageCode2{
+  border:none !important;
+  text-align: left;
+  color: #ccc;
+  margin-left: 180px;
+}
+.tcdPageCode a,.tcdPageCode1 a,.tcdPageCode2 a{
+  display: inline-block;
+  color: #428bca;
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;  
+  padding: 0 10px;
+  border: 1px solid #ddd; 
+  margin: 0 2px;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+.tcdPageCode a:hover,.tcdPageCode1 a:hover,.tcdPageCode2 a:hover{
+  text-decoration: none;
+  border: 1px solid #428bca;
+}
+.tcdPageCode span.current,.tcdPageCode1 span.current,.tcdPageCode2 span.current{
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;
+  padding: 0 10px;
+  margin: 0 2px;
+  color: #fff;
+  background-color: #9E3709; 
+  border: 1px solid #9E3709;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+.tcdPageCode span.disabled,.tcdPageCode1 span.disabled,.tcdPageCode2 span.disabled{ 
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;
+  padding: 0 10px;
+  margin: 0 2px; 
+  color: #bfbfbf;
+  background: #f2f2f2;
+  border: 1px solid #bfbfbf;
+  border-radius: 4px;
+  vertical-align: middle;
+}

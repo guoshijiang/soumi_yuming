@@ -1,0 +1,44 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}register.css">
+<script type="text/javascript" src="{$Think.const.JS_HOME_URL}register.js"></script>
+<!-- 注册开始 -->
+	<div id="register">
+		<form action="__SELF__" method="post">
+		    <h1>会员注册</h1>
+			<div>
+			   <label><span>会员名：</span><input type="text" class="text" name='user_name' value="{$userregister[0]}" /></label>
+			   <p class="msg"><i class="ati"></i>5-25个字符，一个汉字为两个字符</p>
+			</div>
+			<div>
+			   <label><span></span><b id="count">0个字符</b></label>
+			</div>
+			<div style="margin-bottom: 20px">
+			   <label><span>手机号码：</span><input type="text" class="text" name='user_phone' value="{$userregister[1]}" /></label>
+			   <p class="msg"><i class="ati"></i>5-25个字符，一个汉字为两个字符</p>
+			</div>
+			<div>
+			   <label><span>登录密码：</span><input type="password" class="text" name='user_pwd' value="{$userregister[2]}" /></label>
+			   <p class="msg"><i class="err"></i>5-25个字符，一个汉字为两个字符</p>
+			</div>
+			<div style="margin:3px 0 10px 0">
+			   <label>
+			      <span></span><em class="active">弱</em><em>中</em><em>强</em>
+			   </label>
+			</div>
+			<div>
+			   <label>
+			      <span>确认密码：</span><input type="password" class="text"   name='user_pwd1' value="{$userregister[3]}" />
+			   </label>
+			   <p class="msg"><i class="ok"></i>请再输入一次</p>
+			</div>
+			<div>
+			<label>
+			    <span>验证码：</span><input type="text" class="text" style="width: 80px" name='chknumber' />
+			    <img src="__CONTROLLER__/verifyImg" id="safecode" onclick="this.src=this.src+'/'+Math.random()" width="100" height="45" style="margin:20px 5px; vertical-align: middle;"  >
+			</label>
+			</div>
+			<div> 
+			  <input class="submitBtn btn" type="submit" value="确认注册" />
+			</div>
+	    </form>
+	</div>
+<!-- 注册结束 -->

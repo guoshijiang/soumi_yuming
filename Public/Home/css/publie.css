@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/*主页面*/
+	.content_div{
+		margin-top: 20px;
+	}
+	.content_left {
+		width: 776px;
+		float: left;
+	}
+	.content_right{
+		width: 405px;
+		float: right;
+	}
+	.content_left .left_top{
+		height: 56px;
+		font-size: 20px;
+		border-bottom: 1px solid #BDB9B9;
+		font-weight: bold;
+		position: relative;
+	}
+	.content_left .left_top p{
+		height: 56px;
+		line-height: 56px;
+		padding-right: 10px;
+	}
+	.content_left .left_top p.more{
+		font-size: 16px;
+	}
+	.content_left .left_top p.more a{
+		color: #BDB9B9;
+	}
+	.content_left .left_top p.more a:hover{
+		color: #ff5d15;
+	}
+	.content_left .left_top p span{
+		display: inline-block;
+		vertical-align: top;
+		color: #666;
+	}
+	.content_left .left_top .tab{
+		position: absolute;
+		width: 130px;
+		height: 30px;
+		right:90px;
+		top:16px;
+	}
+	.content_left .left_top .tab ul li{
+		width: 20px;
+		height: 20px;
+		border-radius: 100%;
+		margin:1px 4px;
+		float: left;
+	    cursor: pointer;
+	    border:1px solid #666;
+	}
+	.content_left .left_top .tab ul li.on{
+		background-color: #ff5d15;
+		border-color:#ff5d15; 
+	}
+	.content_right .left_top{
+		height: 56px;
+		font-size: 20px;
+		border-bottom: 1px solid #BDB9B9;
+		font-weight: bold;
+	}
+	.content_right .left_top p{
+		height: 56px;
+		line-height: 56px;
+		padding-right: 10px;
+	}
+	.content_right .left_top p span{
+		vertical-align: middle;
+		color: #666;
+	}
+	.content_right .left_top p img{
+		vertical-align: middle;
+		padding:0 5px;
+	}

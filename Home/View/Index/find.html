@@ -1,0 +1,152 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}find.css">
+<!-- 域名查找开始 -->
+	<div id="find">
+		<div class="main">
+		 	<div class="top">
+		 		<img src="{$Think.const.IMG_HOME_URL}find.png" height="65"><span>域名查找</span>
+		 	</div>
+		 	<div class="choose">
+		 	  <form action="__SELF__" method="post">
+		 		<div class="choose_top">
+		 			<i></i><span>域名关键字：</span>
+		 			    <input type="text" class="txt " placeholder="请输入搜索关键字" id="yuming_name" name="yuming_name" value="" />
+		 			<input type="button" class="btn" id="button" onclick="search()" value="搜索" />
+		 		</div>
+		 	  </form>
+		 		<div class="choose_bottom">
+		 		    <p>
+		 			    <span class="cd-title">后缀：</span>
+		 			    <span class="cd-sp t"><a href="javascript:;"  value='0' >不限</a></span>
+		 			     <foreach name='info11' item='v'>
+		 			       <span class="cd-sp t"><a href="javascript:;"  value='{$v.houzhui_id}' >{$v.houzhui_name}</a></span>
+		 			     </foreach>
+		 			</p>
+		 			<p style="display: inline-block;*display:inline;*zoom:1;vertical-align: top;">
+		 			  <span class="cd-title">类型：</span>
+		 		      <span class="cd-sp tt "><a href="javascript:;"  value='0' >不限</a></span>
+		 			</p>
+		 			<div id="classification">
+		 				<foreach name='infoA' item='v'>
+				 		    <p>   
+				 		        <span class="cd-sp tt "><a href="javascript:;"  value='{$v.cat_id}' >{$v.cat_name}</a></span>
+				 		        <foreach name='infoB' item='vv'>
+			 		                <eq name='vv.cat_pid' value='$v.cat_id'>
+			 		                   <span class="cd-sp tt"><a href="javascript:;"   value='{$vv.cat_id}' >{$vv.cat_name}</a></span>
+			 		                </eq>
+				 		        </foreach>
+				 			</p>
+			 			</foreach>
+		 			</div>
+                    
+		 		</div>
+		 	</div>
+		 	<div class="choosed">
+			 	<span class="fl"><i></i>当前条件：默认排序&nbsp;&nbsp;<em style="font-size: 20px">|</em>&nbsp;&nbsp;搜索:<span id="sousuo" class="red">无</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后缀:<span id="houzhui" class="red">不限</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;类型:<span id="cat" class="red">不限</span></span>
+		        <span class="fr">有<strong style="color: red" id="zongshu"></strong>条满足条件的结果</span>		
+		 	</div>
+		 	<div class="bodys">
+			 	<div style="height: 550px;overflow: hidden;">
+			 		<table border="0" >
+	        			<thead>
+	        				<th>域名</th>
+	        				<th>价格</th>
+	        				<th>含义</th>
+	        				<th></th>
+	        			</thead>
+	        			<tbody id='houzhuiinfo_table'>
+	        			    <tr style="width: 0;height: 0"></tr>
+	        			    <foreach name='catinfo1' item='v'>
+	        				  <tr>
+			        		       <td><i></i>{$v.yuming_name}</td>
+			        			   <td>{$v.yuming_xiaoshou_price}</td>
+			        			   <td>{$v.yuming_introduce}</td>
+			        			   <td><a class="lookxq"  href="{:u('User/price',array('yuming_id'=>$v['yuming_id']))}">查看详情</a></td>
+		        			  </tr>
+	        		        </foreach>
+	        			</tbody>	
+		            </table>
+		        </div>
+			    <div id="Pagination" class="pagination">
+		          <!-- 这里显示分页 -->
+		        </div>
+		 	</div>
+		</div>
+	</div>
+<script type="text/javascript">
+  var houzhui_id=0;
+  var cat_id =0;
+  var yuming_name ;
+  var sousuo  = document.getElementById("sousuo");
+  var houzhui = document.getElementById("houzhui");
+  var cat     = document.getElementById("cat");
+  function search(){
+  	 yuming_name = document.getElementById("yuming_name").value;
+  	 sousuo.innerHTML = yuming_name;
+  	 ss();
+  	 document.getElementById("yuming_name").value = "";
+  }
+  var cat_id10  = $(".tt a");
+   cat_id10.click(function(){
+       cat_id = $(this).attr("value");
+       cat_name = $(this).text();
+      cat.innerHTML = cat_name;
+       ss();
+   });
+  var houzhui_id2  = $(".t a");
+  houzhui_id2.click(function(){
+      houzhui_id = $(this).attr("value");
+      houzhui_name = $(this).text();
+      houzhui.innerHTML = houzhui_name;
+       ss();
+  });
+ var num_entries;
+ var aa;
+ var zongshu= document.getElementById("zongshu");
+ function ss(){
+   $.ajax({
+	       url:"__MODULE__/Index/find3",
+	       data:{'houzhui_id':houzhui_id,'cat_id':cat_id,'yuming_name':yuming_name},
+	       dataType:'json',
+	       type:'get',
+	       success:function(msg){
+	       	 var arr1 = msg.split(',');
+             num_entries = arr1[0];
+             aa          = arr1[1];
+             zongshu.innerHTML = aa;
+	         arr1.splice(0,2);
+	       	 yuming_ids = arr1.join();
+	       	  ajs();    	  	
+	  }
+   });
+ }
+
+ function ajs(){
+    (function() {
+		    $("#Pagination").pagination(num_entries, {
+	          num_edge_entries: 1, //边缘页数
+	          num_display_entries: 4, //主体页数
+	          callback: pageselectCallback,
+	          items_per_page:11 //每页显示1项
+	        });
+	    })(); 
+	   function pageselectCallback(page_index, jq){
+	      $.ajax({
+	       url:"__MODULE__/Index/findyuming",
+	       data:{'page_index':page_index,'yuming_ids':yuming_ids},
+	       dataType:'json',
+	       type:'get',
+	       success:function(msg){
+	           var s = "";
+	                  $.each(msg,function(n,v){
+	                  var yuming =  v.yuming_xiaoshou_price;
+                  	  var yuming_xiaoshou_price = v.yuming_xiaoshou_price =='0'?'议价':(yuming);
+	                  s +='<tr><td class = "find_name"><i></i>'+v.yuming_name+'</td><td class="td_price">'+yuming_xiaoshou_price+'</td><td>'+v.yuming_introduce+'</td><td><a class="lookxq" href="/index.php/Home/User/price/yuming_id/'+v.yuming_id+'">查看详情</a></td></tr>';
+	                     });
+	                    $('#houzhuiinfo_table tr:gt(0)').remove();
+	                    $('#houzhuiinfo_table').append(s);  
+	          }
+	       });
+	   }
+   }
+  ss();
+</script>

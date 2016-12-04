@@ -1,0 +1,1 @@
+a:7:{i:0;s:5:"mg_id";i:1;s:7:"mg_name";i:2;s:6:"mg_pwd";i:3;s:7:"mg_time";i:4;s:7:"role_id";s:3:"_pk";s:5:"mg_id";s:5:"_type";a:5:{s:5:"mg_id";s:7:"int(11)";s:7:"mg_name";s:11:"varchar(32)";s:6:"mg_pwd";s:11:"varchar(32)";s:7:"mg_time";s:16:"int(10) unsigned";s:7:"role_id";s:19:"tinyint(3) unsigned";}}

@@ -1,0 +1,88 @@
+body {
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background:url(../images/login_03.gif) repeat-x #152753;
+	font-size: 12px;
+	color: #adc9d9;
+}
+#top {
+	margin: 0 auto;
+	clear:both;
+	height:318px;
+	width:847px;
+	background:url(../images/login_04.gif) no-repeat;
+}
+#center {
+	width: 410px;
+	margin:0 auto;
+	height:184px;
+	text-align:center;
+}
+/* IE7 HACK*/
+*+html #center_left {
+	margin-left:150px !important;
+}
+/* END HACK*/
+#center_middle {
+	float:left;
+	/*background:url(../images/login_07.gif) no-repeat;*/
+	height:120px;
+	width:320px;
+	font-size:16px;
+}
+#center_middle  .user input{
+   width:160px;
+   height:25px;
+   font-size:16px;
+}
+.chknumber{
+margin-left:40px;
+}
+.chknumber img{
+    vertical-align:middle;
+}
+#center_submit {
+	float:left;
+	/*background:url(../images/login_09.gif) no-repeat;*/
+	height:84px;
+	width:67px;
+}
+INPUT {
+	width:100px;
+	height:17px;
+	background-color:#87adbf;
+	border:solid 1px #153966;
+	font-size:12px;
+	color:#283439;
+}
+.chknumber_input {
+	width:60px;
+	height:30px;
+	vertical-align:middle;
+
+}
+.user {
+	margin: 6px auto;
+}
+/* IE7 HACK*/
+*+html .user {
+	margin: 4px auto;
+}
+/* END HACK*/
+.chknumber {
+	margin-bottom:3px;
+	text-align:left;
+	padding-left:3px
+}
+.button {
+	margin: 15px auto;
+}
+IMG {
+	border:none;
+	cursor:pointer;
+}
+FORM {
+	margin:0;
+	padding:0
+}

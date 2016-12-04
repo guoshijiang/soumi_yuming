@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<style>
+    body,html{
+    	height: 100%;
+    }
+	body {
+	margin:0px;
+	padding:0px;
+	font-size: 12px;
+	}
+	#navigation {
+		margin:0px;
+		padding:0px;
+		width:147px;
+		background:#ccc;
+	}
+	#navigation a.head {
+		cursor:pointer;
+		background:url({$Think.const.IMG_ADMIN_URL}main_34.gif) no-repeat scroll;
+		display:block;
+		font-weight:bold;
+		margin:0px;
+		padding:5px 0 5px;
+		text-align:center;
+		font-size:12px;
+		text-decoration:none;
+	}
+	#navigation ul {
+		border-width:0px;
+		margin:0px;
+		padding:0px;
+		text-indent:0px;
+	}
+	#navigation li {
+		list-style:none; display:inline;
+	}
+	#navigation li li a {
+		display:block;
+		font-size:12px;
+		text-decoration: none;
+		text-align:center;
+		padding:3px;
+	}
+	#navigation li li a:hover {
+		background:url({$Think.const.IMG_ADMIN_URL}tab_bg.gif) repeat-x;
+		border:solid 1px #adb9c2;
+	}
+	a:link{
+	    color:#036;
+	}
+</style>
+<body>
+<div  style="height:100%;">
+  <ul id="navigation">
+  <foreach name='authinfoA' item='v'>
+    <li> <a class="head">{$v.auth_name}</a>
+      <ul class="cen" style="display: none;">
+        <foreach name='authinfoB' item='vv'>
+        <eq name='vv.auth_pid' value='$v.auth_id'>
+      <li  class="aaa"><a href="__MODULE__/{$vv.auth_c}/{$vv.auth_a}"  target="rightFrame">{$vv.auth_name}</a></li>
+       </eq>
+        </foreach>
+      </ul>
+    </li>
+  </foreach>
+  </ul>
+</div>
+<script type="text/javascript" src="{$Think.const.JS_ADMIN_URL}jquery-1.12.1.min.js"></script>
+<script type="text/javascript">
+		$(function(){
+			$('#navigation li .head').click(function(){
+                 $(this).next('.cen').toggle(500);
+			});
+			$('#navigation .aaa').click(function(){
+				$(this).find('.san').toggle(500);
+				$('.san a').click(function(e){e.stopPropagation();})//阻止事件冒泡	 
+			})
+		})
+</script>
+</body>
+</html>

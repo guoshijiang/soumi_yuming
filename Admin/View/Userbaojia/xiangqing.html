@@ -1,0 +1,40 @@
+
+  <tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#a8c7ce">
+    <tr>
+        <td width="9%" height="20" bgcolor="d3eaef" colspan="1" class="STYLE6"><div align="center"><span class="STYLE10">
+        用户名:{$info1[0][user_name]}</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" colspan="2" class="STYLE6"><div align="center"><span class="STYLE10">
+        联系方式:{$info1[0][user_phone]}</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" colspan="2" class="STYLE6"><div align="center"><span class="STYLE10">
+        QQ:{$info1[0][qq]}</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" colspan="2" class="STYLE6"><div align="center"><span class="STYLE10">
+        微信:{$info1[0][weixin]}</span></div></td>
+      </tr>
+      <tr>
+        <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">报价ID</span></div></td>
+        <td width="15%" height="20" bgcolor="d3eaef " class="STYLE6"><div align="center"><span class="STYLE10">用户报价</span></div></td>
+        <td width="25%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">用户留言</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">
+        域名</span></div></td>
+         <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">
+        销售价</span></div></td>
+        <td width="11%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">报价时间</span></div></td>
+        <td width="10%" height="20" bgcolor="d3eaef" class="STYLE6"><div align="center"><span class="STYLE10">基本操作</span></div></td>
+      </tr>
+      <foreach name='info' key='k' item='v'>
+      <tr>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.id}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_baojia}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE6"><div align="center"><span class="STYLE19">{$v.user_liuyan}</span></div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="center">{$v.yuming_name}</div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="center">{$v.yuming_xiaoshou_price}</div></td>
+        <td height="20" bgcolor="#FFFFFF" class="STYLE19"><div align="center">{:date('Y-m-d H:i:s',$v['add_time'])}</div></td>
+        <td height="20" bgcolor="#FFFFFF"><div align="center" class="STYLE21">
+        <a style='color:rgb(59,99,119)'  href=" {:U('del',array('id'=>$v['id'],'user_id'=>$v[user_id]))}" onclick="if(confirm('确认要删除我么？主人')){return true;}else{return false;}" >删除</a></div></td>
+      </tr>
+      </foreach>
+    </table></td>
+  </tr>
+ </table>
+</body>

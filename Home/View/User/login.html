@@ -1,0 +1,23 @@
+<link rel="stylesheet" type="text/css" href="{$Think.const.CSS_HOME_URL}login.css">
+<!-- 登录开始 -->
+	<div id="login">
+		<div class="left fl">
+			<form  name="login" action="__SELF__" method="post">
+				<div>
+					<label for="username"><img src="{$Think.const.IMG_HOME_URL}login1.png"></label>
+					<input type="text" class="txt" id="username" placeholder="用户名" name="user_name" value="{$userregister[0]}"/>
+				</div>
+				<div>
+					<label for="password"><img src="{$Think.const.IMG_HOME_URL}login2.png"></label>
+					<input type="password" class="txt" id="password" name="user_pwd" value="{$userregister[2]}" placeholder="密码" />
+					<br/>
+				</div>
+				<input type="submit" id="btnl" value="登录" />
+			</form>
+			<p><a href="{:U('User/register')}">没有账号？立即注册</a> <a href="{:U('yanzhengpwd')}" style="margin-left: 135px;">忘记密码</a></p>
+		</div>
+		<div class="right fr">
+			<img src="{$Think.const.IMG_HOME_URL}weima.jpg" height="180">
+		</div>
+	</div>
+<!-- 登录结束 -->

@@ -1,0 +1,30 @@
+[ 2016-10-29T21:10:22+08:00 ] 123.112.19.64 /index.php/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-10-29T21:11:21+08:00 ] 123.112.19.64 /index.php/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-10-29T21:12:18+08:00 ] 123.112.19.64 /index.php/Manager/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-10-29T21:12:40+08:00 ] 123.112.19.64 /index.php/Manager/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-10-29T21:12:53+08:00 ] 123.112.19.64 /index.php/Manager/login/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Manager
+

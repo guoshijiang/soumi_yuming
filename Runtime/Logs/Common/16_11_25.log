@@ -1,0 +1,12 @@
+[ 2016-11-25T00:43:31+08:00 ] 14.148.0.123 //index.php/webcenter/Register_web/join_member
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Webcenter
+
+[ 2016-11-25T00:56:57+08:00 ] 14.148.0.123 /index.php/webcenter/Register_web/join_member
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Webcenter
+

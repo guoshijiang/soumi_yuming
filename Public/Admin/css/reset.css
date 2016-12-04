@@ -1,0 +1,46 @@
+/*样式重置*/
+*{
+	margin: 0;
+	padding:0;
+}
+body{
+	font:12px/24px Arial,'Microsoft Yahei',"宋体",sans-serif;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+em, i ,strong{font-style: normal;}
+/*清除浮动*/
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content:" ";
+	clear: both;
+	height: 0;
+}
+.clearfix{zoom:1;} /* 兼容 IE6  IE7*/
+input,select{
+	outline: none;
+}
+.btn{
+	border:none;
+}
+.mb10{
+	margin-bottom: 10px;
+}
+.border{
+	border:1px solid blue;
+}

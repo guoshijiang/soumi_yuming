@@ -1,0 +1,632 @@
+@charset "UTF-8";
+/*顶部开始*/
+	#top{
+		background-color:#454344;
+		height: 35px;
+		font-size: 14px;
+		min-width: 1200px;
+	}	
+	#top .main{
+		width: 1200px;
+		margin:0 auto;
+		height: 35px;
+	}
+	#top .left{
+        color:#BDB9B9;
+        line-height: 35px;
+	}
+	#top .left a{
+		color: red;
+		font-weight: bold;
+	}
+	#top .right{
+		position: relative;
+		z-index: 30;
+	}
+    #top .right a{
+        color:#BDB9B9;
+        line-height: 35px;
+  /*      vertical-align: middle;*/
+    }
+    #top .right a.users{
+    	color:#ff5d15;
+    	font-size: 20px;
+    	font-weight: bold;
+    	height: 52px;
+        display: inline-block;
+    }
+    #top .right a.right_a:hover{
+    	color: #ff5d15;
+    }
+    #top .right i{
+    	color: #BDB9B9;
+    }
+    #top .right span{
+    	display: inline-block;
+    	height: 52px;
+    	line-height: 38px;
+    }
+    #top .right .out{
+    	border:1px solid #BDB9B9;
+    	padding:2px 8px;
+    	-moz-border-radius: 5px;
+    	-webkit-border-radius: 5px;
+    	border-radius: 5px;
+    	margin-left: 10px;
+	    vertical-align: top;
+    }
+    #top .right .out:hover{
+    	background-color: #ff5d15;
+    	color: #fff;
+    	border-color: #fff;
+    }
+    #top .right .guide{
+    	position: absolute;
+    	background: #fff;
+    	border:1px solid #cecece;
+    	z-index: 10;
+	    left: 13%;
+	    top: 43px;
+	    margin-left: -20px;
+	    display: none;
+    }
+    #top .right .guide img{
+    	position: absolute;
+    	left: 50%;
+	    top: -19px;
+	    margin-left: -10px;
+    }
+    #top .right .guide ul{
+    	padding:0 10px;
+    }
+    #top .right .guide ul li a:hover{
+		color: #ff5d15;
+    }
+/*顶部结束*/
+/*导航开始*/
+	#nav{
+		height: 90px;
+		background-color: #fff;
+		box-shadow: 0 0 10px #666;
+		-moz-box-shadow: 0 0 10px #666;
+    	-webkit-box-shadow: 0 0 10px #666;
+	}
+	#nav .main{
+		width: 1200px;
+		margin:0 auto;
+	}
+	#nav .nav_left ul li{
+       float: left;
+       line-height: 90px;
+       margin-left: 30px;
+	}
+	#nav .nav_left ul li a{
+		font-size: 20px;
+	    padding: 6px 8px;
+	    -moz-border-radius: 5px;
+	    -webkit-border-radius: 5px;
+	    border-radius: 18px;
+	    color: #000;
+	}
+	#nav .nav_left ul li a.hover{
+		background-color: #ff5d15;
+		color: #fff;
+	}
+	#nav .nav_left ul li a:hover{
+		background-color: #ff5d15;
+		color: #fff;
+	}
+	#nav .ss{
+		height: 90px;
+		line-height: 90px;
+		padding-left: 26px;
+	}
+	#nav .ss form{
+		width: 280px;
+		height: 90px;
+	}
+	#nav .ss input{
+		height: 20px;
+		padding:5px 5px;
+		border:1px solid #ff5d15;
+		vertical-align:middle
+	}
+	#nav .ss input.btn{
+        height: 32px;
+		padding:5px 5px;
+        background-color: #ff5d15;
+        color: #fff;
+	}
+/*导航结束*/
+/*banner图开始*/
+	#banner{
+		height: 440px;
+		position: relative;
+	}
+    #banner .pica{
+    	width: 100%;
+    	height: 100%;
+    }
+    #banner .pica ul{
+    	height: 440px;
+    }
+    #banner .pica ul li{
+    	position: absolute;
+    	display: none;
+    }
+    #banner .pica ul li a img{
+    	width: 100%;
+    	height: 440px;
+    }
+    #banner .tab{
+    	width: 180px;
+    	height: 20px;
+    	position: absolute;
+    	left: 50%;
+    	bottom: 32px;
+        margin-left: -70px;  
+    }
+    #banner .tab ul li{
+    	width: 35px;
+    	height: 6px;
+    	background: #fff;
+    	-moz-border-radius: 3px;
+    	-webkit-border-radius: 3px;
+    	border-radius: 3px;
+    	float: left;
+    	margin:1px 3px;
+        color: #fff;
+        text-align: center;
+        line-height: 25px;
+        font-family: 'Microsoft yahei';
+        font-size: 15px;
+        cursor: pointer;
+    }
+    #banner .tab ul li.on{
+    	background: #f60;
+    }
+    #banner .btn{
+    	display: none;
+    }
+    #banner .btn div{
+    	width: 47px;
+	    height: 78px;
+	    background: #999;
+	    background: rgba(0,0,0,.3);
+	    text-align: center;
+	    line-height: 78px;
+	    color: #fff;
+	    font-size: 66px;
+	    position: absolute;
+	    top: 50%;
+	    margin-top: -30px;
+	    cursor: pointer;
+    }
+    #banner .btn div#leftBtn{
+        left: 2px;
+    }
+    #banner .btn div#rightBtn{
+    	right: 2px;
+    }
+/*banner图结束*/
+/*主内容开始*/
+	#content .main{
+		width: 1200px;
+		margin:0 auto;
+	}
+    #content  .content_left,.content_right{
+    	background-color: #fff;
+    }
+    #content .todaynew .new{
+    	width: 405px;
+    }
+    #content .pricesdeal .deal{
+    	width: 405px;
+    }
+    #content .todaynew .left_bottom{
+    	height: 450px;
+    }
+	#content .todaynew .today .left_bottom{
+		width: 776px;
+		overflow: hidden;
+	}
+	#content .pricesdeal .left_bottom{
+		height: 425px;
+	}
+	#content .pricesdeal .prices .left_bottom{
+		width: 776px;
+		overflow: hidden;
+	}
+	#content .talkclassify .left_bottom{
+		height: 478px;
+	}
+	/*今日推荐*/
+	    #content .todaynew .left_bottom ul li,.pricesdeal .left_bottom ul li{
+            width: 192px;
+            height: 223px;
+            border:1px solid #cecece;
+            text-align: center;
+            float: left;
+	    }
+	    #content .todaynew .left_bottom .list,.pricesdeal .left_bottom .list{
+	    	width: 1000%;
+	    	clear: both;
+	    	height: 450px;
+	    }
+	    #content .todaynew .left_bottom .list ul,.pricesdeal .left_bottom .list ul{
+	    	float: left;
+	    	width: 776px;
+	    	height: 450px;
+	    }
+	    #content .todaynew .left_bottom ul li h4,.pricesdeal .left_bottom ul li h4{
+	    	height: 54px;
+	    	line-height: 54px;
+	    	background-color: #f4f4f4;
+	    	color: #ff5d15;
+	    	font-size: 25px;
+	    }
+	    #content .todaynew .left_bottom ul li .price{
+	    	height: 170px;
+	    }
+	    #content .todaynew .left_bottom ul li .price p{
+	    	height: 40px;
+		    /* line-height: 45px; */
+		    padding-top: 15px;
+	    	font-size: 15px;
+	    	color: #666;
+	    }
+	    #content .todaynew .left_bottom ul li .price p strong{
+			font-size: 20px;
+			color:red;
+	    }
+	    #content .todaynew .left_bottom ul li .price h3{
+	    	height: 60px;
+	    	line-height: 60px;
+	    }
+	    #content .todaynew .left_bottom ul li .price a{
+	    	padding:6px 15px;
+	    	border:1px solid #ff5d15;
+	    	color: #ff1313;
+	        -moz-border-radius: 5px;
+	    	-webkit-border-radius: 5px;
+	    	border-radius: 5px;
+	    	margin-top: 20px;
+	    }
+	    #content .todaynew .left_bottom ul li .price a:hover{
+	    	color: #fff;
+	    	background-color: #ff1313;
+	    }
+	    #content .todaynew .left_bottom ul li:hover,.pricesdeal .left_bottom ul li:hover{
+	    	box-shadow:  0 0 15px #c6c6c6;
+	    	-moz-transform:scale(1.01);
+	    	-webkit-transform:scale(1.01);
+	    	transform: scale(1.01);
+	    }
+	/*最新排行*/
+		#content .new .left_bottom p{
+			height: 45px;
+			line-height: 45px;
+			padding:0 8px;
+		}
+		#content .new .left_bottom p i{
+			display: inline-block;
+			width: 23px;
+			height: 23px;
+			line-height: 23px;
+			text-align: center;
+			padding-right: 8px;
+			margin-top: 10px;
+			float: left;
+		}
+		#content .new .left_bottom p i.ii{
+			background:url(../img/4a.png) no-repeat;
+		}
+		#content .new .left_bottom p:nth-child(1) i{
+			width: 21px;
+			height: 26px;
+			background:url(../img/1a.png) no-repeat !important;
+		}
+		#content .new .left_bottom p:nth-child(2) i{
+			width: 21px;
+			height: 26px;
+			background:url(../img/2a.png) no-repeat !important;
+		}
+		#content .new .left_bottom p:nth-child(3) i{
+			width: 21px;
+			height: 26px;
+			background:url(../img/3a.png) no-repeat !important;
+		}
+		#content .new .left_bottom p a{
+            display: inline-block;
+            width: 120px;
+            font-size: 15px;
+            float: left;
+		}
+		#content .new .left_bottom p a:hover{
+			color: #ff5d15;
+			font-weight: bold;
+		}
+		#content .new .left_bottom p span{
+			display: block;
+			width: 113px;
+			height: 45px;
+			text-align: center;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			float: left;
+
+		}
+    /*一口价域名*/
+	    #content .pricesdeal .prices .left_bottom ul li{
+			height: 211px;
+	    }
+	    #content .pricesdeal .prices .left_bottom ul li div{
+	    	height: 80px;
+	    	padding-top: 24px;
+	    	font-size: 20px;
+	    	color: #666;
+	    }
+	    #content .pricesdeal .prices .left_bottom ul li a{
+	    	display: inline-block;
+	    	height: 54px;
+	    	width: 192px;
+	    	line-height: 54px;
+	    	border-top:1px solid #cecece;
+	    }
+	    #content .pricesdeal .prices .left_bottom ul li:hover a{
+	    	background-color: #f4F4DF;
+	    	cursor: pointer;
+	    }
+	    #content .pricesdeal .prices .left_bottom ul li a strong{
+	    	font-size: 20px;
+	    	color: red;
+	    }
+	/*最近成交*/
+		#content .pricesdeal .deal .left_bottom{
+			height: 425px;
+		}
+		#content .pricesdeal .deal .left_bottom span{
+			float: left;
+			height: 83px;
+			width: 133px;
+			border:1px solid #cecece;
+			text-align: center;
+			line-height: 82px;
+			font-size: 18px;
+			color: #666;
+		}
+    /*议价域名*/
+        .talkclassify .talk .left_bottom{
+        	position: relative;
+        }
+	    .talkclassify .talk .left_bottom table{
+        	border-collapse:collapse;
+        	width: 776px;
+        	text-align: center;
+	    }
+	    .talkclassify .talk .left_bottom table thead{
+	    	background-color: #f4f4f4;
+	    	color:#666;
+	    	border:0;
+	    }
+	    .talkclassify .talk .left_bottom table thead tr{
+	    	height: 54px;
+	    	font-size: 16px;
+	    }
+	    .talkclassify .talk .left_bottom table td a.xq{
+        	display: inline-block;
+        	width: 56px;
+        	height: 30px;
+        	line-height: 30px;
+        	background: #9EA8AB;/*#E24B42*/
+        	color: #fff;
+        	-moz-border-radius: 5px;
+	    	-webkit-border-radius: 5px;
+	    	border-radius: 5px;
+        	
+        }
+        .talkclassify .talk .left_bottom table  tr{
+        	height: 45px;
+        	color:#9C9898;
+        	font-size: 15px;
+        	font-weight:bold;
+        	/*line-height: 45px;*/
+        }
+        .talkclassify .talk .left_bottom table  tr td{
+        	color:#9C9898;
+        	font-size: 15px;
+        	font-weight:bold;
+        }
+        .talkclassify .talk .left_bottom table tr:hover .xq{
+        	background: #ff5d15;
+        }
+        .talkclassify .talk .left_bottom .pagination{
+        	position: absolute;
+        	bottom: 0;
+        	left: 50%;
+        	height: 45px;
+        	width: 700px;
+        	border-top: 1px solid #cecece;
+        	margin-left: -350px;
+        	text-align: center;
+        	padding-top: 15px;
+        }
+    /*域名类型*/
+	    .talkclassify .classify .left_bottom div{
+            width: 100px;
+            float: left;
+            text-align: center;
+	    }
+	    .talkclassify .classify .left_bottom div h3{
+	    	font-size: 18px;
+	    	height: 45px;
+	    	line-height: 45px;
+	    	color: #666;
+	    }
+	    .talkclassify .classify .left_bottom div p{
+	    	padding:8px 0;
+	    }
+	    .talkclassify .classify .left_bottom div p a{
+	    	color:#9C9898;
+	    	font-size: 15px;
+	    }
+	    .talkclassify .classify .left_bottom div p a:hover{
+	    	color: #ff5d15;
+	    	font-weight: bold;
+
+	    }
+/*主内容结束*/
+/*脚步开始*/
+    #footer{
+    	margin-top: 25px;
+    	background: #fff;
+    }
+    #footer .main{
+    	width: 1200px;
+    	margin:0 auto;
+    }
+	#footer .main ul li{
+        float: left;
+        width: 145px;
+        margin-right:200px;
+        text-align: center;
+	}
+	#footer .main ul li.weima{
+		width: 146px;
+		margin-right: 0;
+	}
+	#footer .main ul li.weima h2{
+		padding-right: 22px;
+	}
+	#footer .main ul li h2 img{
+		vertical-align: middle;
+	}
+	#footer .main ul li h2 span{
+        vertical-align: middle;
+        display: inline-block;
+        padding-left: 10px;
+        font-size: 18px;
+	}
+	#footer .main ul li a{
+		color: #000;
+		margin-left: 38px;
+	}
+	#footer .main ul li a:hover{
+		color: #ff5d15;
+		font-weight: bold;
+	}
+	#footer .footer_bottom{
+		background-color: #454343;
+        text-align: center;
+	}
+	#footer .footer_bottom .foot_content{
+		width: 740px;
+		color: #878787;
+		margin:0 auto;
+		padding-top: 12px;
+	}
+	.footer_bottom .foot_content p a i{
+        height: 46px;
+	    width: 123px;
+	    margin-right: 10px;
+	    display: inline-block;
+	    vertical-align: middle;
+	}
+	.footer_bottom .foot_content p a img{
+		vertical-align: middle;
+	}
+	.footer_bottom .foot_content p a i.icon1{
+        background: url(../img/foot.png) no-repeat;
+	    background-position: 0 0;
+	}
+	.footer_bottom .foot_content p a i.icon3{
+        background: url(../img/foot.png) no-repeat;
+	    background-position: 0 -92px;
+	}
+	.footer_bottom .foot_content p a i.icon4{
+        background: url(../img/foot.png) no-repeat;
+	    background-position: 0 -138px;
+	}
+	.footer_bottom .foot_content p{
+		font-family: 'Microsoft Yahei',sans-serif;
+	    font-size: 14px;
+	    color: #dbdbdb;
+	    margin-bottom: 20px;
+	}
+	.footer_bottom .foot_content p a{
+		color: #dbdbdb;
+	}
+	.footer_bottom .foot_content a:hover{
+		text-decoration: underline;
+	    color: #00a7eb!important;
+	    transition: color .5s;
+	}
+
+/*脚步结束*/
+/*固定开始*/
+  #fix{
+  	position: fixed;
+  	width: 62px;
+  	height: 248px;
+  	right: 5px;
+  	top:50%;
+  	background-color: #fff;
+  	-moz-box-shadow: 0 0 10px #7C7C80;
+    -webkit-box-shadow: 0 0 10px #7C7C80;
+  	box-shadow: 0 0 10px #7C7C80;
+  	text-align: center;
+  	margin-top: -124px;
+  }
+  #fix #phone,#weixin,#qq{
+  	width: 62px;
+  	height: 80px;
+  	margin-top: 5px;
+  }
+  #fix #phone a,#weixin a,#qq a{
+  	display: inline-block;
+  	color: #666;
+  	width: 62px;
+  	height: 80px;
+  }
+  #fix .fixedNav:hover a{
+  	color: #ff5d15;
+  	font-weight: bold;
+  }
+  #fix .number{
+  	position: absolute;
+  	display: none;
+  }
+  #fix #phone .number{
+    background-color: #fff;
+    top:14px;
+    width: 100px;
+    right: 80px;
+    border:1px solid #cecece;
+    color: #666;
+    border-radius: 5px;
+  }
+  #fix .fixedNav span{
+	display: inline-block;
+	position: absolute;
+    width: 20px;
+    height: 20px;
+    background:url(../img/sanjiao.png);
+  }
+  #fix #phone span{
+  	top:14px;
+  	left: 100px;
+  }
+  #fix #weixin .number{
+  	width: 140px;
+  	height: 140px;
+  	border:1px solid #cecece;
+    top:73px;
+    right: 80px;
+    background-color: #fff;
+  }
+  #fix #weixin span{
+  	top:28px;
+  	left: 140px;
+  }
+/*固定结束*/

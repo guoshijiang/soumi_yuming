@@ -1,0 +1,1977 @@
+[ 2016-12-02T08:43:43+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-12-02T08:43:44+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-12-02T08:43:56+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-12-02T08:43:56+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-12-02T08:44:20+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg/0.9426248157396913
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-12-02T08:44:22+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg/0.9426248157396913/0.3150748363696039
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-12-02T08:44:23+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg/0.9426248157396913/0.3150748363696039/0.8538060011342168
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-12-02T08:44:35+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `sp_manager` WHERE `mg_name` = 'PAUL' AND `mg_pwd` = 'soumi888.com' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-12-02T08:44:35+08:00 ] 125.94.193.157 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-12-02T08:44:36+08:00 ] 125.94.193.157 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0011s ]
+SQL: SELECT m.role_id,r.role_name FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15'  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Use of undefined constant role_id - assumed 'role_id' /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 63 行.
+NOTIC: [8] Undefined variable: v /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-12-02T08:44:36+08:00 ] 125.94.193.157 /index.php/Admin/Index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-12-02T08:44:36+08:00 ] 125.94.193.157 /index.php/Admin/Index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-12-02T08:44:36+08:00 ] 125.94.193.157 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT r.role_auth_ids FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 0 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 1 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-12-02T08:44:36+08:00 ] 125.94.193.157 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-12-02T08:44:54+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-12-02T08:44:59+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/getyuming?page_index=0&yuming_ids=73%2C90%2C91%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165%2C166%2C167%2C168%2C169%2C170%2C171%2C172%2C173%2C174%2C175%2C177%2C178%2C179%2C180%2C181%2C182%2C183%2C184%2C185%2C186%2C187%2C188%2C189%2C190%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C199%2C200%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C209%2C210%2C211%2C213%2C214%2C215%2C216%2C217%2C218%2C219%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C229%2C230%2C231%2C232%2C233%2C234%2C235%2C236%2C237%2C238%2C239%2C240%2C241%2C242%2C243%2C244%2C245%2C246%2C247%2C248%2C249%2C250%2C251%2C252%2C253%2C254%2C255%2C256%2C257%2C258%2C259%2C260%2C261%2C262%2C263%2C264%2C265%2C266%2C267%2C268%2C269%2C271%2C272%2C273%2C274%2C275%2C276%2C277%2C278%2C279%2C280%2C281%2C282%2C283%2C284%2C285%2C286%2C287%2C288%2C289%2C290%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C299%2C300%2C301%2C302%2C303%2C304%2C305%2C306%2C307%2C308%2C309%2C311%2C312%2C313%2C314%2C315%2C316%2C317%2C318%2C319%2C320%2C321%2C322%2C323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C339%2C341%2C342%2C343%2C347%2C350%2C351%2C352%2C353%2C354%2C355%2C356%2C357%2C358%2C359%2C360%2C361%2C362%2C363%2C364%2C365%2C366%2C367%2C368%2C369%2C370%2C371%2C372%2C373%2C374%2C375%2C376%2C377%2C378%2C379%2C380%2C381%2C382%2C383%2C384%2C385%2C386%2C387%2C388%2C389%2C390%2C391%2C392%2C393%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C402%2C403%2C404%2C405%2C406%2C407%2C408%2C409%2C410%2C411%2C412%2C413%2C414%2C415%2C416%2C417%2C418%2C419%2C420%2C421%2C422%2C424%2C425%2C426%2C427%2C429%2C430%2C431%2C432%2C433%2C434%2C435%2C436%2C437%2C438%2C439%2C440%2C441%2C442%2C443%2C444%2C445%2C446%2C447%2C448%2C449%2C450%2C451%2C452%2C453%2C454%2C455%2C456%2C457%2C458%2C459%2C460%2C461%2C462%2C463%2C464%2C465%2C466%2C467%2C468%2C469%2C470%2C471%2C472%2C473%2C474%2C475%2C476%2C477%2C478%2C479%2C480%2C481%2C482%2C483%2C484%2C485%2C486%2C487%2C488%2C489%2C490%2C491%2C492%2C493%2C494%2C495%2C496%2C497%2C498%2C499%2C500%2C501%2C502%2C503%2C504%2C505%2C506%2C507%2C508%2C509%2C510%2C511%2C512%2C513%2C514%2C515%2C516%2C517%2C518%2C519%2C520%2C521%2C522%2C523%2C524%2C525%2C526%2C527%2C528%2C529%2C534%2C535%2C537%2C538%2C540%2C541%2C542%2C543%2C544%2C545%2C546%2C547%2C557%2C558%2C559%2C560%2C566%2C567%2C569%2C570%2C571%2C572%2C573%2C574%2C576%2C577%2C578%2C588%2C589%2C590%2C591%2C592%2C593%2C594%2C595%2C596%2C598%2C599%2C600%2C601%2C602%2C603%2C604%2C605%2C606%2C607%2C608%2C609%2C610%2C611%2C612%2C613%2C614%2C615%2C616%2C617%2C618%2C619%2C620%2C621%2C622%2C623%2C624%2C625%2C627%2C628%2C629%2C630%2C631%2C632%2C633%2C634%2C635%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C92%2C176%2C212%2C270%2C428%2C530%2C548%2C549%2C550%2C551%2C552%2C563%2C564%2C565
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SELECT y.*,c.cat_name,c.cat_id,h.houzhui_name,h.houzhui_id FROM sp_yuming y INNER JOIN sp_category c on y.cat_id=c.cat_id INNER JOIN sp_houzhui h on y.houzhui_id=h.houzhui_id  WHERE y.yuming_id IN ('73','90','91','93','94','95','96','97','98','99','100','101','102','103','104','105','106','107','108','109','110','111','112','113','114','115','116','117','118','119','120','121','122','123','124','125','126','127','128','129','130','131','132','133','134','135','136','139','140','141','142','143','144','145','146','147','148','149','150','151','152','153','154','155','156','157','158','159','160','161','162','163','164','165','166','167','168','169','170','171','172','173','174','175','177','178','179','180','181','182','183','184','185','186','187','188','189','190','191','192','193','194','195','196','197','198','199','200','201','202','203','204','205','206','207','208','209','210','211','213','214','215','216','217','218','219','221','222','223','224','225','226','227','228','229','230','231','232','233','234','235','236','237','238','239','240','241','242','243','244','245','246','247','248','249','250','251','252','253','254','255','256','257','258','259','260','261','262','263','264','265','266','267','268','269','271','272','273','274','275','276','277','278','279','280','281','282','283','284','285','286','287','288','289','290','291','292','293','294','295','296','297','298','299','300','301','302','303','304','305','306','307','308','309','311','312','313','314','315','316','317','318','319','320','321','322','323','324','325','326','327','328','329','330','331','332','333','334','335','336','337','339','341','342','343','347','350','351','352','353','354','355','356','357','358','359','360','361','362','363','364','365','366','367','368','369','370','371','372','373','374','375','376','377','378','379','380','381','382','383','384','385','386','387','388','389','390','391','392','393','394','395','396','397','398','399','400','401','402','403','404','405','406','407','408','409','410','411','412','413','414','415','416','417','418','419','420','421','422','424','425','426','427','429','430','431','432','433','434','435','436','437','438','439','440','441','442','443','444','445','446','447','448','449','450','451','452','453','454','455','456','457','458','459','460','461','462','463','464','465','466','467','468','469','470','471','472','473','474','475','476','477','478','479','480','481','482','483','484','485','486','487','488','489','490','491','492','493','494','495','496','497','498','499','500','501','502','503','504','505','506','507','508','509','510','511','512','513','514','515','516','517','518','519','520','521','522','523','524','525','526','527','528','529','534','535','537','538','540','541','542','543','544','545','546','547','557','558','559','560','566','567','569','570','571','572','573','574','576','577','578','588','589','590','591','592','593','594','595','596','598','599','600','601','602','603','604','605','606','607','608','609','610','611','612','613','614','615','616','617','618','619','620','621','622','623','624','625','627','628','629','630','631','632','633','634','635','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','92','176','212','270','428','530','548','549','550','551','552','563','564','565') ORDER BY y.yuming_id desc LIMIT 0,20   [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-12-02T08:45:00+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming` WHERE `yuming_name` LIKE '%8015%'  [ RunTime:0.0006s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0006s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-12-02T08:45:01+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/getyuming?page_index=0&yuming_ids=589
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0010s ]
+SQL: SELECT y.*,c.cat_name,c.cat_id,h.houzhui_name,h.houzhui_id FROM sp_yuming y INNER JOIN sp_category c on y.cat_id=c.cat_id INNER JOIN sp_houzhui h on y.houzhui_id=h.houzhui_id  WHERE y.yuming_id IN ('589') ORDER BY y.yuming_id desc LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-12-02T08:45:03+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/upd/yuming_id/589
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_yuming_cat` [ RunTime:0.0006s ]
+SQL: SELECT group_concat(cat_id) as catid FROM `sp_yuming_cat` WHERE `yuming_id` = 589 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_yuming` WHERE `yuming_id` = 589 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-12-02T08:45:04+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-12-02T08:45:23+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/upd/yuming_id/589
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_yuming_cat` [ RunTime:0.0007s ]
+SQL: DELETE FROM `sp_yuming_cat` WHERE `yuming_id` = 589 [ RunTime:0.0002s ]
+SQL: UPDATE `sp_yuming` SET `yuming_name`='8015.com',`houzhui_id`='1',`cat_id`='31',`is_sell`='0',`is_qiang`='0',`is_rec`='1',`is_new`='1',`yuming_yijia_price`='0',`yuming_shougou_price`='',`yuming_xiaoshou_price`='200000',`yuming_introduce`='精品4数字',`upd_time`='1480639523' WHERE `yuming_id` = 589 [ RunTime:0.0102s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-12-02T08:45:25+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0010s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-12-02T08:45:25+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-12-02T08:45:35+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-12-02T08:45:38+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 34  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-12-02T08:45:57+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0010s ]
+SQL: INSERT INTO `sp_yuming` (`yuming_name`,`houzhui_id`,`cat_id`,`is_sell`,`is_qiang`,`is_rec`,`is_new`,`yuming_yijia_price`,`yuming_shougou_price`,`yuming_xiaoshou_price`,`yuming_introduce`,`upd_time`,`add_time`) VALUES ('1824.com','1','31','0','1','0','1','0','','135000','精品4数字','1480639556','1480639556') [ RunTime:0.0293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-12-02T08:45:59+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0015s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0010s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-12-02T14:38:20+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-12-02T14:38:20+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-12-02T14:38:40+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_manager` WHERE `mg_name` = 'PAUL' AND `mg_pwd` = 'soumi888.com' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-12-02T14:38:40+08:00 ] 125.94.193.157 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-12-02T14:38:40+08:00 ] 125.94.193.157 /index.php/Admin/Index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-12-02T14:38:40+08:00 ] 125.94.193.157 /index.php/Admin/Index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006325s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-12-02T14:38:40+08:00 ] 125.94.193.157 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001755s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT m.role_id,r.role_name FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15'  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Use of undefined constant role_id - assumed 'role_id' /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 63 行.
+NOTIC: [8] Undefined variable: v /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-12-02T14:38:41+08:00 ] 125.94.193.157 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT r.role_auth_ids FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 0 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 1 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-12-02T14:38:41+08:00 ] 125.94.193.157 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006168s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-12-02T14:38:45+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-12-02T14:38:57+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-12-02T14:39:00+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 41  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-12-02T14:39:49+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: INSERT INTO `sp_yuming` (`yuming_name`,`houzhui_id`,`cat_id`,`is_sell`,`is_qiang`,`is_rec`,`is_new`,`yuming_yijia_price`,`yuming_shougou_price`,`yuming_xiaoshou_price`,`yuming_introduce`,`upd_time`,`add_time`) VALUES ('676888.com','1','31','0','1','0','1','0','','70000','精品6数字','1480660789','1480660789') [ RunTime:0.0119s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-12-02T14:39:51+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0012s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-12-02T14:39:59+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-12-02T14:40:09+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-12-02T14:40:14+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 41  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-12-02T14:40:27+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: INSERT INTO `sp_yuming` (`yuming_name`,`houzhui_id`,`cat_id`,`is_sell`,`is_qiang`,`is_rec`,`is_new`,`yuming_yijia_price`,`yuming_shougou_price`,`yuming_xiaoshou_price`,`yuming_introduce`,`upd_time`,`add_time`) VALUES ('543888.com','1','31','0','1','0','1','0','','60000','精品6数字','1480660827','1480660827') [ RunTime:0.0167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-12-02T14:40:28+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-12-02T15:32:09+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-12-02T15:32:09+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-12-02T15:32:21+08:00 ] 125.94.193.157 /index.php/Admin/Manager/verifyImg/0.38356070104055107
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-12-02T15:32:31+08:00 ] 125.94.193.157 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_manager` WHERE `mg_name` = 'PAUL' AND `mg_pwd` = 'soumi888.com' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-12-02T15:32:32+08:00 ] 125.94.193.157 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-12-02T15:32:32+08:00 ] 125.94.193.157 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT m.role_id,r.role_name FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15'  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Use of undefined constant role_id - assumed 'role_id' /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 63 行.
+NOTIC: [8] Undefined variable: v /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-12-02T15:32:32+08:00 ] 125.94.193.157 /index.php/Admin/Index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-12-02T15:32:33+08:00 ] 125.94.193.157 /index.php/Admin/Index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-12-02T15:32:33+08:00 ] 125.94.193.157 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT r.role_auth_ids FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 0 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 1 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-12-02T15:32:33+08:00 ] 125.94.193.157 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006329s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-12-02T15:32:36+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-12-02T15:32:47+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-12-02T15:32:50+08:00 ] 125.94.193.157 /index.php/Admin/Category/getCatByPid?cat_id=41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 41  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-12-02T15:33:57+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: INSERT INTO `sp_yuming` (`yuming_name`,`houzhui_id`,`cat_id`,`is_sell`,`is_qiang`,`is_rec`,`is_new`,`yuming_yijia_price`,`yuming_shougou_price`,`yuming_xiaoshou_price`,`yuming_introduce`,`upd_time`,`add_time`) VALUES ('687333.com','1','31','0','1','0','1','0','','10000','精品6数字<br />','1480664037','1480664037') [ RunTime:0.0158s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-12-02T15:33:58+08:00 ] 125.94.193.157 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0006s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-12-02T16:27:58+08:00 ] 218.19.171.145 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-12-02T16:27:58+08:00 ] 218.19.171.145 /index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-12-02T16:28:11+08:00 ] 218.19.171.145 /index.php/Admin/Manager/verifyImg/0.28069416573271155
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-12-02T16:28:12+08:00 ] 218.19.171.145 /index.php/Admin/Manager/verifyImg/0.28069416573271155/0.9261454753577709
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-12-02T16:28:14+08:00 ] 218.19.171.145 /index.php/Admin/Manager/verifyImg/0.28069416573271155/0.9261454753577709/0.24082427681423724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-12-02T16:28:25+08:00 ] 218.19.171.145 /index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_manager` WHERE `mg_name` = 'PAUL' AND `mg_pwd` = 'soumi888.com' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-12-02T16:28:25+08:00 ] 218.19.171.145 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-12-02T16:28:25+08:00 ] 218.19.171.145 /index.php/Admin/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT m.role_id,r.role_name FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15'  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Use of undefined constant role_id - assumed 'role_id' /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 63 行.
+NOTIC: [8] Undefined variable: v /soumi/Runtime/Cache/Admin/9f112a28a9fe473a1c220ebe688615cb.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-12-02T16:28:26+08:00 ] 218.19.171.145 /index.php/Admin/Index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-12-02T16:28:26+08:00 ] 218.19.171.145 /index.php/Admin/Index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020835s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-12-02T16:28:26+08:00 ] 218.19.171.145 /index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_manager` [ RunTime:0.0007s ]
+SQL: SELECT r.role_auth_ids FROM sp_manager m left join sp_role as r on m.role_id=r.role_id  WHERE m.mg_id = '15' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 0 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_auth` WHERE `auth_level` = 1 AND `auth_id` IN ('101','104','138','152','153','103','110','117','145','142','143','144','154','146','147','148','155')  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-12-02T16:28:26+08:00 ] 218.19.171.145 /index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-12-02T16:28:30+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-12-02T16:28:45+08:00 ] 218.19.171.145 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-12-02T16:28:48+08:00 ] 218.19.171.145 /index.php/Admin/Category/getCatByPid?cat_id=41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 41  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-12-02T16:29:01+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/tianjia
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: INSERT INTO `sp_yuming` (`yuming_name`,`houzhui_id`,`cat_id`,`is_sell`,`is_qiang`,`is_rec`,`is_new`,`yuming_yijia_price`,`yuming_shougou_price`,`yuming_xiaoshou_price`,`yuming_introduce`,`upd_time`,`add_time`) VALUES ('742111,。com','1','31','0','1','0','1','0','','5000','精品6数字','1480667341','1480667341') [ RunTime:0.0249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-12-02T16:29:03+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-12-02T16:29:08+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/getyuming?page_index=0&yuming_ids=73%2C90%2C91%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165%2C166%2C167%2C168%2C169%2C170%2C171%2C172%2C173%2C174%2C175%2C177%2C178%2C179%2C180%2C181%2C182%2C183%2C184%2C185%2C186%2C187%2C188%2C189%2C190%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C199%2C200%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C209%2C210%2C211%2C213%2C214%2C215%2C216%2C217%2C218%2C219%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C229%2C230%2C231%2C232%2C233%2C234%2C235%2C236%2C237%2C238%2C239%2C240%2C241%2C242%2C243%2C244%2C245%2C246%2C247%2C248%2C249%2C250%2C251%2C252%2C253%2C254%2C255%2C256%2C257%2C258%2C259%2C260%2C261%2C262%2C263%2C264%2C265%2C266%2C267%2C268%2C269%2C271%2C272%2C273%2C274%2C275%2C276%2C277%2C278%2C279%2C280%2C281%2C282%2C283%2C284%2C285%2C286%2C287%2C288%2C289%2C290%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C299%2C300%2C301%2C302%2C303%2C304%2C305%2C306%2C307%2C308%2C309%2C311%2C312%2C313%2C314%2C315%2C316%2C317%2C318%2C319%2C320%2C321%2C322%2C323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C339%2C341%2C342%2C343%2C347%2C350%2C351%2C352%2C353%2C354%2C355%2C356%2C357%2C358%2C359%2C360%2C361%2C362%2C363%2C364%2C365%2C366%2C367%2C368%2C369%2C370%2C371%2C372%2C373%2C374%2C375%2C376%2C377%2C378%2C379%2C380%2C381%2C382%2C383%2C384%2C385%2C386%2C387%2C388%2C389%2C390%2C391%2C392%2C393%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C402%2C403%2C404%2C405%2C406%2C407%2C408%2C409%2C410%2C411%2C412%2C413%2C414%2C415%2C416%2C417%2C418%2C419%2C420%2C421%2C422%2C424%2C425%2C426%2C427%2C429%2C430%2C431%2C432%2C433%2C434%2C435%2C436%2C437%2C438%2C439%2C440%2C441%2C442%2C443%2C444%2C445%2C446%2C447%2C448%2C449%2C450%2C451%2C452%2C453%2C454%2C455%2C456%2C457%2C458%2C459%2C460%2C461%2C462%2C463%2C464%2C465%2C466%2C467%2C468%2C469%2C470%2C471%2C472%2C473%2C474%2C475%2C476%2C477%2C478%2C479%2C480%2C481%2C482%2C483%2C484%2C485%2C486%2C487%2C488%2C489%2C490%2C491%2C492%2C493%2C494%2C495%2C496%2C497%2C498%2C499%2C500%2C501%2C502%2C503%2C504%2C505%2C506%2C507%2C508%2C509%2C510%2C511%2C512%2C513%2C514%2C515%2C516%2C517%2C518%2C519%2C520%2C521%2C522%2C523%2C524%2C525%2C526%2C527%2C528%2C529%2C534%2C535%2C537%2C538%2C540%2C541%2C542%2C543%2C544%2C545%2C546%2C547%2C557%2C558%2C559%2C560%2C566%2C567%2C569%2C570%2C571%2C572%2C573%2C574%2C576%2C577%2C578%2C588%2C589%2C590%2C591%2C592%2C593%2C594%2C595%2C596%2C598%2C599%2C600%2C601%2C602%2C603%2C604%2C605%2C606%2C607%2C608%2C609%2C610%2C611%2C612%2C613%2C614%2C615%2C616%2C617%2C618%2C619%2C620%2C621%2C622%2C623%2C624%2C625%2C627%2C628%2C629%2C630%2C631%2C632%2C633%2C634%2C635%2C636%2C637%2C638%2C639%2C640%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C92%2C176%2C212%2C270%2C428%2C530%2C548%2C549%2C550%2C551%2C552%2C563%2C564%2C565
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SELECT y.*,c.cat_name,c.cat_id,h.houzhui_name,h.houzhui_id FROM sp_yuming y INNER JOIN sp_category c on y.cat_id=c.cat_id INNER JOIN sp_houzhui h on y.houzhui_id=h.houzhui_id  WHERE y.yuming_id IN ('73','90','91','93','94','95','96','97','98','99','100','101','102','103','104','105','106','107','108','109','110','111','112','113','114','115','116','117','118','119','120','121','122','123','124','125','126','127','128','129','130','131','132','133','134','135','136','139','140','141','142','143','144','145','146','147','148','149','150','151','152','153','154','155','156','157','158','159','160','161','162','163','164','165','166','167','168','169','170','171','172','173','174','175','177','178','179','180','181','182','183','184','185','186','187','188','189','190','191','192','193','194','195','196','197','198','199','200','201','202','203','204','205','206','207','208','209','210','211','213','214','215','216','217','218','219','221','222','223','224','225','226','227','228','229','230','231','232','233','234','235','236','237','238','239','240','241','242','243','244','245','246','247','248','249','250','251','252','253','254','255','256','257','258','259','260','261','262','263','264','265','266','267','268','269','271','272','273','274','275','276','277','278','279','280','281','282','283','284','285','286','287','288','289','290','291','292','293','294','295','296','297','298','299','300','301','302','303','304','305','306','307','308','309','311','312','313','314','315','316','317','318','319','320','321','322','323','324','325','326','327','328','329','330','331','332','333','334','335','336','337','339','341','342','343','347','350','351','352','353','354','355','356','357','358','359','360','361','362','363','364','365','366','367','368','369','370','371','372','373','374','375','376','377','378','379','380','381','382','383','384','385','386','387','388','389','390','391','392','393','394','395','396','397','398','399','400','401','402','403','404','405','406','407','408','409','410','411','412','413','414','415','416','417','418','419','420','421','422','424','425','426','427','429','430','431','432','433','434','435','436','437','438','439','440','441','442','443','444','445','446','447','448','449','450','451','452','453','454','455','456','457','458','459','460','461','462','463','464','465','466','467','468','469','470','471','472','473','474','475','476','477','478','479','480','481','482','483','484','485','486','487','488','489','490','491','492','493','494','495','496','497','498','499','500','501','502','503','504','505','506','507','508','509','510','511','512','513','514','515','516','517','518','519','520','521','522','523','524','525','526','527','528','529','534','535','537','538','540','541','542','543','544','545','546','547','557','558','559','560','566','567','569','570','571','572','573','574','576','577','578','588','589','590','591','592','593','594','595','596','598','599','600','601','602','603','604','605','606','607','608','609','610','611','612','613','614','615','616','617','618','619','620','621','622','623','624','625','627','628','629','630','631','632','633','634','635','636','637','638','639','640','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','92','176','212','270','428','530','548','549','550','551','552','563','564','565') ORDER BY y.yuming_id desc LIMIT 0,20   [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-12-02T16:29:17+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-12-02T16:29:18+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/getyuming?page_index=0&yuming_ids=73%2C90%2C91%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165%2C166%2C167%2C168%2C169%2C170%2C171%2C172%2C173%2C174%2C175%2C177%2C178%2C179%2C180%2C181%2C182%2C183%2C184%2C185%2C186%2C187%2C188%2C189%2C190%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C199%2C200%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C209%2C210%2C211%2C213%2C214%2C215%2C216%2C217%2C218%2C219%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C229%2C230%2C231%2C232%2C233%2C234%2C235%2C236%2C237%2C238%2C239%2C240%2C241%2C242%2C243%2C244%2C245%2C246%2C247%2C248%2C249%2C250%2C251%2C252%2C253%2C254%2C255%2C256%2C257%2C258%2C259%2C260%2C261%2C262%2C263%2C264%2C265%2C266%2C267%2C268%2C269%2C271%2C272%2C273%2C274%2C275%2C276%2C277%2C278%2C279%2C280%2C281%2C282%2C283%2C284%2C285%2C286%2C287%2C288%2C289%2C290%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C299%2C300%2C301%2C302%2C303%2C304%2C305%2C306%2C307%2C308%2C309%2C311%2C312%2C313%2C314%2C315%2C316%2C317%2C318%2C319%2C320%2C321%2C322%2C323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C339%2C341%2C342%2C343%2C347%2C350%2C351%2C352%2C353%2C354%2C355%2C356%2C357%2C358%2C359%2C360%2C361%2C362%2C363%2C364%2C365%2C366%2C367%2C368%2C369%2C370%2C371%2C372%2C373%2C374%2C375%2C376%2C377%2C378%2C379%2C380%2C381%2C382%2C383%2C384%2C385%2C386%2C387%2C388%2C389%2C390%2C391%2C392%2C393%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C402%2C403%2C404%2C405%2C406%2C407%2C408%2C409%2C410%2C411%2C412%2C413%2C414%2C415%2C416%2C417%2C418%2C419%2C420%2C421%2C422%2C424%2C425%2C426%2C427%2C429%2C430%2C431%2C432%2C433%2C434%2C435%2C436%2C437%2C438%2C439%2C440%2C441%2C442%2C443%2C444%2C445%2C446%2C447%2C448%2C449%2C450%2C451%2C452%2C453%2C454%2C455%2C456%2C457%2C458%2C459%2C460%2C461%2C462%2C463%2C464%2C465%2C466%2C467%2C468%2C469%2C470%2C471%2C472%2C473%2C474%2C475%2C476%2C477%2C478%2C479%2C480%2C481%2C482%2C483%2C484%2C485%2C486%2C487%2C488%2C489%2C490%2C491%2C492%2C493%2C494%2C495%2C496%2C497%2C498%2C499%2C500%2C501%2C502%2C503%2C504%2C505%2C506%2C507%2C508%2C509%2C510%2C511%2C512%2C513%2C514%2C515%2C516%2C517%2C518%2C519%2C520%2C521%2C522%2C523%2C524%2C525%2C526%2C527%2C528%2C529%2C534%2C535%2C537%2C538%2C540%2C541%2C542%2C543%2C544%2C545%2C546%2C547%2C557%2C558%2C559%2C560%2C566%2C567%2C569%2C570%2C571%2C572%2C573%2C574%2C576%2C577%2C578%2C588%2C589%2C590%2C591%2C592%2C593%2C594%2C595%2C596%2C598%2C599%2C600%2C601%2C602%2C603%2C604%2C605%2C606%2C607%2C608%2C609%2C610%2C611%2C612%2C613%2C614%2C615%2C616%2C617%2C618%2C619%2C620%2C621%2C622%2C623%2C624%2C625%2C627%2C628%2C629%2C630%2C631%2C632%2C633%2C634%2C635%2C636%2C637%2C638%2C639%2C640%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C92%2C176%2C212%2C270%2C428%2C530%2C548%2C549%2C550%2C551%2C552%2C563%2C564%2C565
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0010s ]
+SQL: SELECT y.*,c.cat_name,c.cat_id,h.houzhui_name,h.houzhui_id FROM sp_yuming y INNER JOIN sp_category c on y.cat_id=c.cat_id INNER JOIN sp_houzhui h on y.houzhui_id=h.houzhui_id  WHERE y.yuming_id IN ('73','90','91','93','94','95','96','97','98','99','100','101','102','103','104','105','106','107','108','109','110','111','112','113','114','115','116','117','118','119','120','121','122','123','124','125','126','127','128','129','130','131','132','133','134','135','136','139','140','141','142','143','144','145','146','147','148','149','150','151','152','153','154','155','156','157','158','159','160','161','162','163','164','165','166','167','168','169','170','171','172','173','174','175','177','178','179','180','181','182','183','184','185','186','187','188','189','190','191','192','193','194','195','196','197','198','199','200','201','202','203','204','205','206','207','208','209','210','211','213','214','215','216','217','218','219','221','222','223','224','225','226','227','228','229','230','231','232','233','234','235','236','237','238','239','240','241','242','243','244','245','246','247','248','249','250','251','252','253','254','255','256','257','258','259','260','261','262','263','264','265','266','267','268','269','271','272','273','274','275','276','277','278','279','280','281','282','283','284','285','286','287','288','289','290','291','292','293','294','295','296','297','298','299','300','301','302','303','304','305','306','307','308','309','311','312','313','314','315','316','317','318','319','320','321','322','323','324','325','326','327','328','329','330','331','332','333','334','335','336','337','339','341','342','343','347','350','351','352','353','354','355','356','357','358','359','360','361','362','363','364','365','366','367','368','369','370','371','372','373','374','375','376','377','378','379','380','381','382','383','384','385','386','387','388','389','390','391','392','393','394','395','396','397','398','399','400','401','402','403','404','405','406','407','408','409','410','411','412','413','414','415','416','417','418','419','420','421','422','424','425','426','427','429','430','431','432','433','434','435','436','437','438','439','440','441','442','443','444','445','446','447','448','449','450','451','452','453','454','455','456','457','458','459','460','461','462','463','464','465','466','467','468','469','470','471','472','473','474','475','476','477','478','479','480','481','482','483','484','485','486','487','488','489','490','491','492','493','494','495','496','497','498','499','500','501','502','503','504','505','506','507','508','509','510','511','512','513','514','515','516','517','518','519','520','521','522','523','524','525','526','527','528','529','534','535','537','538','540','541','542','543','544','545','546','547','557','558','559','560','566','567','569','570','571','572','573','574','576','577','578','588','589','590','591','592','593','594','595','596','598','599','600','601','602','603','604','605','606','607','608','609','610','611','612','613','614','615','616','617','618','619','620','621','622','623','624','625','627','628','629','630','631','632','633','634','635','636','637','638','639','640','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','92','176','212','270','428','530','548','549','550','551','552','563','564','565') ORDER BY y.yuming_id desc LIMIT 0,20   [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-12-02T16:29:22+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/getyuming?page_index=0&yuming_ids=73%2C90%2C91%2C93%2C94%2C95%2C96%2C97%2C98%2C99%2C100%2C101%2C102%2C103%2C104%2C105%2C106%2C107%2C108%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C116%2C117%2C118%2C119%2C120%2C121%2C122%2C123%2C124%2C125%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C136%2C139%2C140%2C141%2C142%2C143%2C144%2C145%2C146%2C147%2C148%2C149%2C150%2C151%2C152%2C153%2C154%2C155%2C156%2C157%2C158%2C159%2C160%2C161%2C162%2C163%2C164%2C165%2C166%2C167%2C168%2C169%2C170%2C171%2C172%2C173%2C174%2C175%2C177%2C178%2C179%2C180%2C181%2C182%2C183%2C184%2C185%2C186%2C187%2C188%2C189%2C190%2C191%2C192%2C193%2C194%2C195%2C196%2C197%2C198%2C199%2C200%2C201%2C202%2C203%2C204%2C205%2C206%2C207%2C208%2C209%2C210%2C211%2C213%2C214%2C215%2C216%2C217%2C218%2C219%2C221%2C222%2C223%2C224%2C225%2C226%2C227%2C228%2C229%2C230%2C231%2C232%2C233%2C234%2C235%2C236%2C237%2C238%2C239%2C240%2C241%2C242%2C243%2C244%2C245%2C246%2C247%2C248%2C249%2C250%2C251%2C252%2C253%2C254%2C255%2C256%2C257%2C258%2C259%2C260%2C261%2C262%2C263%2C264%2C265%2C266%2C267%2C268%2C269%2C271%2C272%2C273%2C274%2C275%2C276%2C277%2C278%2C279%2C280%2C281%2C282%2C283%2C284%2C285%2C286%2C287%2C288%2C289%2C290%2C291%2C292%2C293%2C294%2C295%2C296%2C297%2C298%2C299%2C300%2C301%2C302%2C303%2C304%2C305%2C306%2C307%2C308%2C309%2C311%2C312%2C313%2C314%2C315%2C316%2C317%2C318%2C319%2C320%2C321%2C322%2C323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C339%2C341%2C342%2C343%2C347%2C350%2C351%2C352%2C353%2C354%2C355%2C356%2C357%2C358%2C359%2C360%2C361%2C362%2C363%2C364%2C365%2C366%2C367%2C368%2C369%2C370%2C371%2C372%2C373%2C374%2C375%2C376%2C377%2C378%2C379%2C380%2C381%2C382%2C383%2C384%2C385%2C386%2C387%2C388%2C389%2C390%2C391%2C392%2C393%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C402%2C403%2C404%2C405%2C406%2C407%2C408%2C409%2C410%2C411%2C412%2C413%2C414%2C415%2C416%2C417%2C418%2C419%2C420%2C421%2C422%2C424%2C425%2C426%2C427%2C429%2C430%2C431%2C432%2C433%2C434%2C435%2C436%2C437%2C438%2C439%2C440%2C441%2C442%2C443%2C444%2C445%2C446%2C447%2C448%2C449%2C450%2C451%2C452%2C453%2C454%2C455%2C456%2C457%2C458%2C459%2C460%2C461%2C462%2C463%2C464%2C465%2C466%2C467%2C468%2C469%2C470%2C471%2C472%2C473%2C474%2C475%2C476%2C477%2C478%2C479%2C480%2C481%2C482%2C483%2C484%2C485%2C486%2C487%2C488%2C489%2C490%2C491%2C492%2C493%2C494%2C495%2C496%2C497%2C498%2C499%2C500%2C501%2C502%2C503%2C504%2C505%2C506%2C507%2C508%2C509%2C510%2C511%2C512%2C513%2C514%2C515%2C516%2C517%2C518%2C519%2C520%2C521%2C522%2C523%2C524%2C525%2C526%2C527%2C528%2C529%2C534%2C535%2C537%2C538%2C540%2C541%2C542%2C543%2C544%2C545%2C546%2C547%2C557%2C558%2C559%2C560%2C566%2C567%2C569%2C570%2C571%2C572%2C573%2C574%2C576%2C577%2C578%2C588%2C589%2C590%2C591%2C592%2C593%2C594%2C595%2C596%2C598%2C599%2C600%2C601%2C602%2C603%2C604%2C605%2C606%2C607%2C608%2C609%2C610%2C611%2C612%2C613%2C614%2C615%2C616%2C617%2C618%2C619%2C620%2C621%2C622%2C623%2C624%2C625%2C627%2C628%2C629%2C630%2C631%2C632%2C633%2C634%2C635%2C636%2C637%2C638%2C639%2C640%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86%2C87%2C88%2C89%2C92%2C176%2C212%2C270%2C428%2C530%2C548%2C549%2C550%2C551%2C552%2C563%2C564%2C565
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SELECT y.*,c.cat_name,c.cat_id,h.houzhui_name,h.houzhui_id FROM sp_yuming y INNER JOIN sp_category c on y.cat_id=c.cat_id INNER JOIN sp_houzhui h on y.houzhui_id=h.houzhui_id  WHERE y.yuming_id IN ('73','90','91','93','94','95','96','97','98','99','100','101','102','103','104','105','106','107','108','109','110','111','112','113','114','115','116','117','118','119','120','121','122','123','124','125','126','127','128','129','130','131','132','133','134','135','136','139','140','141','142','143','144','145','146','147','148','149','150','151','152','153','154','155','156','157','158','159','160','161','162','163','164','165','166','167','168','169','170','171','172','173','174','175','177','178','179','180','181','182','183','184','185','186','187','188','189','190','191','192','193','194','195','196','197','198','199','200','201','202','203','204','205','206','207','208','209','210','211','213','214','215','216','217','218','219','221','222','223','224','225','226','227','228','229','230','231','232','233','234','235','236','237','238','239','240','241','242','243','244','245','246','247','248','249','250','251','252','253','254','255','256','257','258','259','260','261','262','263','264','265','266','267','268','269','271','272','273','274','275','276','277','278','279','280','281','282','283','284','285','286','287','288','289','290','291','292','293','294','295','296','297','298','299','300','301','302','303','304','305','306','307','308','309','311','312','313','314','315','316','317','318','319','320','321','322','323','324','325','326','327','328','329','330','331','332','333','334','335','336','337','339','341','342','343','347','350','351','352','353','354','355','356','357','358','359','360','361','362','363','364','365','366','367','368','369','370','371','372','373','374','375','376','377','378','379','380','381','382','383','384','385','386','387','388','389','390','391','392','393','394','395','396','397','398','399','400','401','402','403','404','405','406','407','408','409','410','411','412','413','414','415','416','417','418','419','420','421','422','424','425','426','427','429','430','431','432','433','434','435','436','437','438','439','440','441','442','443','444','445','446','447','448','449','450','451','452','453','454','455','456','457','458','459','460','461','462','463','464','465','466','467','468','469','470','471','472','473','474','475','476','477','478','479','480','481','482','483','484','485','486','487','488','489','490','491','492','493','494','495','496','497','498','499','500','501','502','503','504','505','506','507','508','509','510','511','512','513','514','515','516','517','518','519','520','521','522','523','524','525','526','527','528','529','534','535','537','538','540','541','542','543','544','545','546','547','557','558','559','560','566','567','569','570','571','572','573','574','576','577','578','588','589','590','591','592','593','594','595','596','598','599','600','601','602','603','604','605','606','607','608','609','610','611','612','613','614','615','616','617','618','619','620','621','622','623','624','625','627','628','629','630','631','632','633','634','635','636','637','638','639','640','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','92','176','212','270','428','530','548','549','550','551','552','563','564','565') ORDER BY y.yuming_id desc LIMIT 0,20   [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-12-02T16:29:24+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/upd/yuming_id/640
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_yuming_cat` [ RunTime:0.0006s ]
+SQL: SELECT group_concat(cat_id) as catid FROM `sp_yuming_cat` WHERE `yuming_id` = 640 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0 ORDER BY cat_path  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_yuming` WHERE `yuming_id` = 640 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-12-02T16:29:25+08:00 ] 218.19.171.145 /index.php/Admin/Category/getCatByPid?cat_id=31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_pid` = 31  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-12-02T16:29:32+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/upd/yuming_id/640
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `sp_yuming_cat` [ RunTime:0.0006s ]
+SQL: DELETE FROM `sp_yuming_cat` WHERE `yuming_id` = 640 [ RunTime:0.0002s ]
+SQL: UPDATE `sp_yuming` SET `yuming_name`='742111.com',`houzhui_id`='1',`cat_id`='31',`is_sell`='0',`is_qiang`='1',`is_rec`='0',`is_new`='1',`yuming_yijia_price`='0',`yuming_shougou_price`='',`yuming_xiaoshou_price`='5000',`yuming_introduce`='精品6数字',`upd_time`='1480667372' WHERE `yuming_id` = 640 [ RunTime:0.0076s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-12-02T16:29:33+08:00 ] 218.19.171.145 /index.php/Admin/Yuming/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' /soumi/Admin/Conf/config.php 第 4 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `sp_role` WHERE `role_id` = 101 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `sp_houzhui` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `sp_houzhui`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `sp_houzhui` WHERE `houzhui_id` = 0  [ RunTime:0.0002s ]
+SQL: SELECT `cat_id`,`cat_name`,`cat_level` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 47 行.
+SQL: SELECT `cat_pid` FROM `sp_category` WHERE `cat_id` = 0  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_pid - assumed 'cat_pid' /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 52 行.
+SQL: SELECT `cat_name` FROM `sp_category` WHERE `cat_id` = null  [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant cat_level - assumed 'cat_level' /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+NOTIC: [8] Undefined offset: 0 /soumi/Admin/Controller/YumingController.class.php 第 67 行.
+SQL: SHOW COLUMNS FROM `sp_yuming` [ RunTime:0.0008s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+SQL: SELECT `yuming_id` FROM `sp_yuming`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined variable: cateinfo /soumi/Runtime/Cache/Admin/d90693088d993ef5c3d1cfcaf22b2491.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+

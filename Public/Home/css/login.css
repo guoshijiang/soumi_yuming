@@ -1,0 +1,62 @@
+#login{
+	width: 680px;
+	height: 305px;
+	margin:56px auto;
+	box-shadow: 0 0 10px #666;
+	background: #fff;
+	padding:20px 20px;
+}
+#login .left{
+	width: 450px;
+	height: 280px;
+	border-right: 1px solid #cecece;
+	margin-top: 15px;
+}
+#login .left form{
+	width: 370px;
+    height: 180px;
+    padding: 24px 25px;
+}
+#login .left form label{
+	display: inline-block;
+	width: 30px;
+	height: 40px;
+	padding:0 10px;
+}
+#login .left form label img{
+	vertical-align: middle;
+}
+#login .left form input{
+	height: 40px;
+	width: 300px;
+	font-size: 20px;
+}
+#login .left form .txt{
+	padding-left: 10px;
+}
+#login .left form div{
+	margin-bottom: 20px;
+}
+#login .left form #btnl{
+	color: #fff;
+	background-color: #ff5d15;
+	border:1px solid #ff5d15;
+	font-size: 20px;
+	width: 365px;
+	margin-left: 2px;
+}
+#login .left p a{
+	margin-left: 27px;
+	color: #A9A7A7;
+	font-size: 15px;
+	font-weight: bold;
+}
+#login .left p a:hover{
+	color: #ff5d15;
+}
+#login .right{
+	width: 190px;
+    height: 180px;
+    margin-top: 66px;
+    padding-right: 11px;
+}

@@ -1,0 +1,12 @@
+[ 2016-11-26T03:37:45+08:00 ] 131.161.10.244 /index.php?m=index&a=cate&cid=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Index
+
+[ 2016-11-26T19:41:50+08:00 ] 94.41.161.108 /index.php/component/users/?view=registration
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Component
+

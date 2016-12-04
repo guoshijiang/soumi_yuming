@@ -1,0 +1,70 @@
+#whios{
+	width: 720px;
+	margin:20px auto;
+	border:1px solid #cecece;
+	background-color: #fff;
+	padding:35px 35px;
+	box-shadow: 0 0 10px #666;
+}
+#whios p.find{
+	font-size: 16px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+#whios p input.txt{
+    height: 24px;
+    padding:5px 5px;
+    border-radius: 5px;
+    border:1px solid #cecece; 
+}
+#whios p input.btn{
+	border:1px solid #ff5d15;
+	background:#ff5d15;
+	height: 36px;
+	width: 83px;
+	color: #fff;
+	border-radius: 5px;
+	margin-left: 10px;
+	font-size: 16px;
+}
+#whios h3{
+	padding:8px 0;
+}
+#whios h3 em{
+    color: #ff5d15;
+    padding:0 5px;
+}
+#whios div p{
+	font: 14px/1.6 Arial,SimSun;
+	color: #444;
+	margin-bottom: 8px;
+	word-break: break-all;
+	word-wrap:break-word;
+}
+#whios .detail{
+	width: 100px;
+	height: 30px;
+	border:1px solid #9fc4dc;
+	padding:5px 10px;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 20px
+	background-color:#edf7ff;
+	color: #2b84be;
+	font-weight: bold;
+	font-size: 16px;
+}
+#whios .detail:hover{
+	border:1px solid #ff5d15;
+	color: #ff5d15;
+	background: #fff4e7;
+	cursor:pointer;
+}
+#whios .ons{
+	border:1px solid #ff5d15;
+	color: #ff5d15;
+	background: #fff4e7;
+}
+#whios .more{
+	display: none;
+}
