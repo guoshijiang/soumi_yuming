@@ -1,3 +1,3 @@
 # soumi_yuming
-This is website code which is for SOUMI complany
-whole code
+
+这是一个网站的全部代码，使用TP框架，基于MVC模式开发的，其中Admin部分是后台代码，Home是前台代码。如果你要在你本地运行这个项目，你需要搭建LAMP环境，导入数据库。
